@@ -1,0 +1,14 @@
+version=1
+id=2715130063
+title=Český překlad - BETA
+description=Český překlad ke hře Project Zomboid.
+description=Aktuálně hodně položek ve hře není přeložených nebo je přeložených chybně.
+description=Náším cílem je toto napravit :)
+description=V budoucnu bude tento překlad jako oficiální Čeština ve hře.
+description=
+description=Beta verze znamená:
+description=- překlad zatím není kompletní a mohou se v něm vyskytovat chyby
+description=- překlady TV a rádia nejsou kvůli jejich formátu jako mód možné, u těch se musí počkat až je do hry nahrají vývojáři
+description=- budeme rádi když nahlásíte jakékoli překlepy nebo chyby překladu :)
+tags=Build 41;Language/Translation
+visibility=public
