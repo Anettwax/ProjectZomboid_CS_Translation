@@ -169,6 +169,7 @@ ContextMenu_CS = {
     ContextMenu_FoodType_Fruits = "Ovoce",
     ContextMenu_FoodType_Game = "Zvěřina",
     ContextMenu_FoodType_Meat = "Maso",
+    ContextMenu_FoodType_Milk = "Mléko",
     ContextMenu_FoodType_NoExplicit = "Koření",
     ContextMenu_FoodType_Pasta = "Těstoviny",
     ContextMenu_FoodType_Rice = "Rýže",
