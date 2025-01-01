@@ -1,0 +1,11 @@
+Muldraugh
+ <LINE> <LINE>
+ Muldraugh je malé město v lokalitě, kterou místní znají jako 'Knox Country' -
+mrtvý bod státu Kentucky. Dříve to bylo výhradně armádní město, ale nyní vítá
+ lidi ze všech oblastí života. Někteří dojíždějí za prací do větších měst
+ v okolí a naopak některé vojenské rodiny a další obyvatelé žijí pod hranicí chudoby.
+ <LINE> <LINE>
+ Je to malá oblast, která je plná dobrých lidí a to nesmíme opomenout Spiffovo nejlepší
+ kuře se sušenkami! Jistě, moc se tu toho neděje,
+ ale to neznamená, že život v Muldraugh je nudný...
+
