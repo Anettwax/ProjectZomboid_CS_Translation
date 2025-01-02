@@ -1,0 +1,13 @@
+EvolvedRecipeName_CS = {
+    -- note: please do not include "Canned" in the names of the evolved recipe names; it makes the names too long; you can also use the "EvolvedRecipeName = " field in a food item script, if the FoodType is not NoExplicit, to give it an Evlved Recipe name instead of using this system.",
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Boloòská omáèka v konzervì",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Mrkve v konzervì",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Chilli v konzervì",
+    EvolvedRecipeName_Base.CannedCornOpen = "Kukuøice v konzervì",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Hovìzí v konzervì",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Hrášek v konzervì",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Brambory v konzervì",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Sardinky v konzervì",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Rajèata v konzervì",
+    EvolvedRecipeName_Base.Teabag2 = "Èaj",
+}

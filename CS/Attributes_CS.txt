@@ -1,0 +1,16 @@
+Attributes_CS = {
+    Attributes_Type_None = "Žádný",
+    Attributes_Type_Quality = "Kvalita",
+    Attributes_Type_Durability = "Odolnost",
+    Attributes_Type_WoodWetness = "Vlhkost døeva",
+    Attributes_Type_Uses = "Použití",
+    Attributes_Type_DurabilityOnUse = "Odolnost pøi použití",
+    Attributes_Type_CraftedBy = "Vyrobil",
+    Attributes_Type_MetalType = "Typ kovu",
+    Attributes_Type_WoodType = "Typ døeva",
+    Attributes_Type_ContainsWood = "Obsahuje døevo",
+    Attributes_Type_ContainsMetal = "Obsahuje kov",
+
+    -- Tooltip overrides
+    Attributes_TooltipOverride_Durability = "Použití",
+}
