@@ -240,6 +240,7 @@ Recipes_CS = {
     Recipe_Make_Wooden_Spear = "Vyrobit dřevěný oštěp",
     Recipe_Make_Wooden_Stick = "Vyrobit dřevěnou tyč",
     Recipe_Make_Wooden_Stick = "Vyrobit dřevěnou tyč",
+    Recipe_Omelette = "Omeleta",
     Recipe_Open Nails_box = "Otevřít krabičku s hřebíky",
     Recipe_Open_.223_Ammo_box = "Otevřít krabičku s .223 náboji",
     Recipe_Open_.308_Ammo_box = "Otevřít krabičku s .308 náboji",
