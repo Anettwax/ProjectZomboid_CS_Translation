@@ -1,0 +1,1689 @@
+Print_Media_EN = {
+Print_Media_WindowTitle = "Pat Media Debug Brenterface",
+
+Print_Media_KnoxKnews_July1_title = "Knox Knews - July 1 1993",
+
+Print_Media_KnoxKnews_July1_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:792, height:900, pivotX:-0.012, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.01, pivotY:0, angle:-0.5, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.006, pivotY:0, angle:-0.3, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:789, height:900, pivotX:-0.003, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:900, height:789, pivotX:0, pivotY:0, scaleX:-1, scaleY:1, angle:90, a:0.4>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Rangers triumph^in West Point"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Local teacher wins^national award"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 3"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 4"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>Brandenburg^disaster funds^on the way,^says Governor"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>THURSDAY"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>July 1, 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>PRINTED IN IRVINGTON"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>No. 905"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>Governor Cal Fairweather speaking in Frankfort yesterday."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>FRANKFORT - Governor Cal Fairweather has reassured Brandenburg's mayor that the long-promised federal funds for the rebuild- ing of Brandenburg are "on the way."                Despite an overwhelming early response following the tornado on April 18, which saw ample aid provided for residents in the aftermath, promised federal funds for re- building have still not arrived, with buildings patched up with wood, and major damage still evident.                                                      Early warnings meant many residents were taking shelter when the tornado touched down in the northeast part of town, but the high winds killed three residents and injured dozens. The F2 tornado destroyed cars and razed houses. Hundreds of people remain homeless, living in hotels or trailer parks paid for by the state, with others living with relatives or friends. Up to 40% of residences and 30% of businesses in the area are uninsured, meaning the cost to the taxpayer could exceed 50 million dollars.           Kentucky is often struck by tornadoes, but the April whirlwind took authorities  by ^(continued p.2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Hunter injured in^deer attack"..
+"<type:text, x:305, y:700, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>RIVERSIDE - John Nathan, a hunter from New York, has said he was lucky to not have been severely injured after a run-in with a stag in the forest west of Riverside. "I've been hunting in the Knox area for years," said Nathan, "but I never saw something like this, especially outside of rutting season. I was lining up a shot on a rabbit when a white-tail  stag  suddenly  burst out  of^(continued p.4)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Ekron's oldest^resident gives long^life secret"..
+"<type:text, x:550, y:733, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>EKRON - Full of lively talk and old songs, it's hard to believe Nancy Hume, Ekron's oldest resident, is 103 years old. "I outlived all my friends," she says, then adds with a smile, "but I outlived all my enemies too!" So what are Nancy's secrets? "Bourbon with your supper, bed before 10, and never get involved with men. Never!""..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly1A.png"), width:130, height:97, x:261, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly1B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly1.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KnoxKnews_July2_title = "Knox Knews - July 2 1993",
+
+Print_Media_KnoxKnews_July2_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:792, height:900, pivotX:-0.011, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:794, height:900, pivotX:-0.01, pivotY:0, angle:-0.4, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.006, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:790, height:900, pivotX:-0.003, pivotY:0, angle:0.1, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:789, height:900, pivotX:1, pivotY:1, scaleX:-1, scaleY:-1, angle:0, a:0.4>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Delilah in^Brandenburg^"indefinitely""..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Chapelmount Downs^plans Virginia track"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 2"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 4"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>FRIDAY"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>July 2, 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>PRINTED IN IRVINGTON"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>No. 906"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>Widespread^telephone^outages in^Knox area"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>KT says its engineers are working "around the clock.""..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>KNOX AREA - Knox Telecommunications has apologized for an hours-long outage on its networks which continues at the time of printing, leaving thousands of Knox resi- dents without any access to telephone and Internet services.                                             The unplanned outage has caused chaos, with several businesses which rely on telecommuting having to remain closed for the day, and others left unable to communicate with customers or suppliers. The cause of such a serious but localized outage has not been announced, but KT say they are "working on it" with dozens of engineers working on telephone poles throughout the area.                                         One expert, Kevin Hogan, told Knox Knews, "this sort of failure is incredibly uncommon. It doesn't seem related to any single switchboard or central system. I've heard reports there are wires down or disconnected. Either they were all overloaded by a lightning strike, or this is the    work    of    vandals    or    saboteurs." ^(continued p.2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Locals compete for^mint julep prize"..
+"<type:text, x:305, y:700, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>KNOX AREA - Many a Kentucky friendship has been irreparably des- troyed by arguments about the perfect mint julep. And yet the Mint Julep Prize competition, held last Saturday in Brandenburg, was full of lighthearted chat and free and healthy debates about the state's favorite cocktail. The Best Traditional Julep award went to Casey Stockhome. Judges deemed her ^(continued p.4)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Irvington resident^"lucky to be alive""..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>IRVINGTON -  Local resident Sally Graham has said she is lucky to be alive following a fiery car crash south of the city  on  Thursday. Sally  crashed  into a wall, setting the car on fire. Fast intervention from a passerby saved Graham's life. "He pulled me from the car and stopped the bleeding until the ambulance could arrive. It took such a long time, with  the  phone  lines  being^(continued p.3)"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly2A.png"), width:130, height:97, x:261, y:24, scaleX:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly2B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly2.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KnoxKnews_July3_title = "Knox Knews - July 3 1993",
+
+Print_Media_KnoxKnews_July3_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:794, height:900, pivotX:-0.01, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:790, height:900, pivotX:-0.008, pivotY:0, angle:-0.4, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:793, height:900, pivotX:-0.007, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.001, pivotY:0, angle:0.1, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:900, height:789, pivotX:0, pivotY:1, scaleX:1, scaleY:1, angle:-90, a:0.3>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Two arrests^in house repair scam^investigation"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Ohio River^more polluted^than ever^"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 3"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 5"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>SATURDAY"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>July 3, 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>PRINTED IN IRVINGTON"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>No. 907"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>"Operation^Centaur^winding down"^ - FBI"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>FBI Director Ian Clark speaking in Louisville."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>LOUISVILLE    -    The  FBI  investigation into   corruption  in   the  Kentucky  General Assembly, codenamed Operation Centaur, has now achieved its main objectives and is winding   down,   FBI   Director   Ian  Clark said in a press conference in Louisville yesterday.^    The operation saw more than a dozen Kentucky legislators indicted and convicted of taking bribes related to toxic waste dumping, extortion, racketeering, and conspiracy to defraud the state of Kentucky. House Speaker Dan Dullford has already resigned after being charged with extortion, racketeering, and lying to the FBI.                  Governor Cal Fairweather was also caught in the controversy, and had to distance himself from two of his aides in February following their arrest for accepting bribes, "without the Governor's consent or knowledge."^    The controversy crosses party lines, with both Democrats and Republicans indicted. Other  legislators   facing  trial  include  the^(continued p.2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Phone lines still^down across area"..
+"<type:text, x:305, y:715, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>KNOX AREA  -  Knox  Telecommuni- cations has apologized for a second day of telephone outages in the Knox region. Cell and car phone reception has also been affected, with both businesses and residences left in turmoil. KT has claimed the outages are due to "severe issues with a local telephone  exchange",   and   warns   it^(continued p.4)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>WP resident dies^after eating^60 hot dogs"..
+"<type:text, x:550, y:732, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>WEST POINT - The 16th Annual West Point Hot Dog Eating competition had a tragic end as the winner, Bolton Jupiter, passed away shortly after winning. "He held up the trophy," said an onlooker, "a little wiener with shades. Then he keeled over on a bucket of mayonnaise."^(continued p.3)"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly3A.png"), width:130, height:97, scaleX:1, x:261, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly3B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly3.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KnoxKnews_July4_title = "Knox Knews - July 4 1993",
+
+Print_Media_KnoxKnews_July4_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:791, height:900, pivotX:-0.008, pivotY:0, angle:0.3, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.01, pivotY:0, angle:-0.2, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:789, height:900, pivotX:-0.006, pivotY:0, angle:-0.1, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:793, height:900, pivotX:-0.002, pivotY:0, angle:0.4, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:789, height:900, pivotX:0, pivotY:0, scaleX:1, scaleY:1, angle:0, a:0.3>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Hot weather^to continue^next week"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Tim Johnson^"likely out^for season""..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 2"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 4"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>SUNDAY"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>July 4, 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>PRINTED IN IRVINGTON"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>No. 908"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>"No danger^to public"^after crash,^Army says"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>The scene was sealed off and secured by military personnel."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>MARCH RIDGE -  A military truck carrying hazardous waste overturned just north of March Ridge at approximately 3:15 p.m. on Saturday. The contents of the truck are not being revealed to the public, but Col. Niall O'Malley has said, "the materials, though secret for operational reasons, would pose little danger even if they came into contact with the public, which they did not."                 Witnesses say the truck lost control on Route 60, south of the Farmer's Market, skidding onto the grass after narrowly mis- sing a passing car, and overturned on the embankment. Officials did not deny the truck was overloaded.                                                 The incident is one of several involving hazardous materials in the Knox area. Environmental activists have criticized very "lax" standards, with toxic chemicals and compounds from poorly stored ammunition cited as the reason for higher than average rates of respiratory illnesses in the Knox area. State legislators recently repealed several  environmental  laws, a  move which^(continued p.2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Speedway could^host Formula X"..
+"<type:text, x:305, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>IRVINGTON - Formula X organizers have given a preliminary nod to Irvington Speedway as the host track of 1996's U.S. Grand Prix. Though the host track still remains in nego- tiation, officials are privately favoring the Speedway due to its location near Louisville, the track's innovative design and  the  openness  of  authorities   to ^(continued p.4)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Happy^Independence Day^from Knox Knews!"..
+"<type:text, x:550, y:732, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>KNOX - It's been an honor to serve at Knox Knews for two consecutive July 4's. We hope our readers have a wonderful day as we remember why America was founded - and dream of what it could one day be.^All the very best,^Ian J. McCarrock^Editor-in-chief"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly4A.png"), width:130, height:97, x:261, y:24, scaleX:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly4B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly4.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KnoxKnews_July5_title = "Knox Knews - July 5 1993",
+
+Print_Media_KnoxKnews_July5_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:790, height:900, pivotX:-0.009, pivotY:0, angle:0.15, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.007, pivotY:0, angle:-0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:791, height:900, pivotX:-0.005, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:790, height:900, pivotX:-0.001, pivotY:0, angle:0.3, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:789, height:900, pivotX:0, pivotY:1, scaleX:1, scaleY:-1, angle:0, a:0.3>"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>MONDAY"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>July 5, 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>PRINTED IN IRVINGTON"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>No. 909"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>"No end in sight"^for Knox phone^outages"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>"Unusual illness"^affects residents in^Muldraugh"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 4"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 6"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>EXCLUSIVE:^Knox has best^Independence^Day ever!"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>The Knox parade had its best attendance ever."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>KNOX AREA - Despite disruptions of plans caused by the ongoing telephone outage in Knox, yesterday saw thousands of residents hold family barbecues, parties and fireworks as they celebrated America's 217th birthday together.                                                           An elaborate parade of twenty decorated floats passed through Knox on the way to Louisville, with local elementary school student Una Turner portraying Lady Liberty in the lead car, accompanied by brass bands from West Point, Riverside and Brandenburg playing patriotic tunes.                                      A special event was held at the drag racing circuit near West Point, with world famous racing driver Cruz Dylan among the on-lookers - though the champion racer could not be persuaded to go for a drive himself, as he "didn't want to make the other racers look bad."                                                                 In the evening, fireworks of red, white, and blue lit up the evening sky and glasses of lemonade and beer were raised to America, and to the memories  of  the  many^(continued p.2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.78, scaleY:0.78, textLeading:-4, font:UIFont.SdfOldBold>Foul smell could be^"natural process""..
+"<type:text, x:305, y:715, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>OHIO RIVER - Joan Delahunt, a local geography teacher, has theorized that the foul smell in the Knox region is emanating from the Ohio River, and may be caused by an invading algae taking root in parts of the river.                Delahunt noticed pieces of brown seaweed washed up on the river bank several several days ago. "It reminded (continued p.2)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Spate of dog attacks^"worrisome""..
+"<type:text, x:550, y:715, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>KNOX AREA  -  Sheriff John Carroll has reminded residents of their res- ponsibility to keep their dogs under control, following a spate of attacks on farm animals and residents. "Dogs should never roam free," the sheriff said. "If they're at home, they should be fenced in, or kept indoors so they can't escape. If a dog bites someone, the dog^(continued p.3)"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly5A.png"), width:130, height:97, scaleX:1, x:261, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly5B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly5.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KnoxKnews_July6_title = "Knox Knews - July 6 1993",
+
+Print_Media_KnoxKnews_July6_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:790, height:900, pivotX:-0.011, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:790, height:900, pivotX:-0.008, pivotY:0, angle:0.3, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:791, height:900, pivotX:-0.005, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:789, height:900, pivotX:-0.002, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:789, height:900, pivotX:1, pivotY:0, scaleX:-1, scaleY:1, angle:0, a:0.3>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Murdered local^"part of criminal^gang""..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Debate on^Irvington^speed limits"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 2"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>see page 4"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>Mystery illness^strikes locals,^overwhelms^authorities"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>TUESDAY"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>July 6, 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>PRINTED IN IRVINGTON"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>No. 910"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic> People have resorted to short-range radios to communicate with authorities."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>MULDRAUGH - An unidentified illness has struck dozens of residents in the Muldraugh region, with symptoms of severe fevers and vomiting. March Ridge has opened its military hospital to the public to help contain the illness, though it is not believed to spread person-to-person. Officials from the Centers for Disease Control and Prevention are reportedly on the way to the hospital to aid in investigating the cause of the outbreak.         It is understood that several of the afflict- ed have suffered bites, and Janine Cortman, a local doctor theorizes that a rabies out- break is in progress. Dr. Cortman said, "I treated four patients in the same day with the same symptoms. I'm out of rabies immunoglobin, so I'm extremely grateful the military has opened their hospital in Fort Knox to the public."                                           Rabies was recently reported in the region among the wild animal population, but cases in humans are rare. "Before today," said Dr. Cortman, "I'd seen only three definite cases of rabies in humans. It's  a  worry  that  this^(continued p.2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Phone lines still^down in area"..
+"<type:text, x:305, y:700, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>KNOX  AREA - Knox  Telecommuni- cations has apologized to angry customers for an unscheduled  main- tenance period which has seen phone lines go down within the area for almost a week. The response to the Muldraugh illness outbreak has been hampered by the outage, with many seeking help using short range radio calls to police  and  medical authorities^(continued p.2)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Spiffo's "sorry"^after Secret Sauce^shenanigans"..
+"<type:text, x:550, y:732, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>RALEIGH, NC - Fast food chain Spiffo's has apologized after its Secret Sauce left local burger consumers with a bad taste in their mouths. Head of Logistics Paula Impton has said the mix-up occurred when a batch of new, experimental hot sauce was accidentally redirected to Kentucky in  place  of  the^(continued p.3)"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly6A.png"), width:130, height:97, scaleX:1, x:261, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly6B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly6_2.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KentuckyHerald_July6_title = "The Kentucky Herald - July 6 1993",
+
+Print_Media_KentuckyHerald_July6_info = "<type:parent, width:915, height:750>"..
+"<type:texture, width:900, height:750, pivotX:-0.01, pivotY:0.01, angle:0.3 , r:125/255.0, g:125/255.0, b:125/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.012, pivotY:0.012, angle:-0.4 , r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.008, pivotY:0.008, angle:0.2 , r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.006, pivotY:0.006, angle:0.1 , r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:900, height:750, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:900, height:750, pivotX:0, pivotY:0, a:0.6>"..
+"<type:text, x:5, y:135, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Volume 277, No. 23"..
+"<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>LOUISVILLE, TUESDAY, JULY 6, 1993"..
+"<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>32 PAGES - 35c"..
+"<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.95, scaleY:1.95, textLeading:-4, font:UIFont.SdfOldBold>Illness Outbreak in Muldraugh"..
+"<type:text, x:120, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Exhibition Draws^Crowd at Gallery"..
+"<type:text, x:120, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>Artist's   work   very^popular in Louisville"..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Louisville, Ky. - The Art Gallery of Louisville's new exhibi- tion of paintings by Irish artist, Ashling Dwyer, drew large crowds Monday night.                                        Dwyer, winner of the 1992 Siu-Chong Prize, unveiled a pair of new paintings, "Pink Curtain" and "Yellow,  Yellow,  Yellow". Both drew immediate applause and ac- claim for their use of bold color, deeply emotive abstract patterns, and expert use of modern art techniques.                                             Dwyer is part of a new wave of Irish artists making big waves internationally. Her other works include Chromatic Accident, and the live action piece, 48 Saucepans"..
+"<type:text, x:782, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>Dozens of cases^reported in area"..
+"<type:text, x:780, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>Response hampered by^    telephone outages"..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Muldraugh, Ky. - Dozens of cases of a flu-like illness have been reported in the area of Muldraugh, a small town just north of Fort Knox, with symptoms including severe nausea and fever.                         With multiple military instal- lations and toxic waste dumps in the area, doctors are looking at whether a chemical leak into the water supply or food chain may be responsible, though calls to outside authorities for assistance are reportedly being met with obfus- cation and denials.                                  The US Army has reportedly opened its quarantine facilities in its hospital in Fort Knox for use by "..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold>An ambulance at a house in the Muldraugh area, believed to be related to the outbreak."..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>   Body Identified^ As Local Attorney"..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>President Cancels^  G7 Tokyo Trip"..
+"<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:3, x:900/2, y:130, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:150, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, pivotX:0.5, x:900/2, y:250, width:420, height:350, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:235, height:2, x:120, y:251, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252, x:238, y:250, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:325, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:385, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:252, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252-430, x:664, y:250+430, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:340, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:405, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:320, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:550, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/TheKentuckyHerald.png"), width:660, height:80, x:900/2, y:38, pivotX:0.5, pivotY:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly6.png"), pivotX:0.5, x:900/2, y:252, width:416, height:346, scaleX:1, scaleY:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KH_Gradient_1.png"), pivotX:0.0004, pivotY:-0.0004, width:915, height:750, a:1>",
+
+Print_Media_KentuckyHerald_July13_title = "The Kentucky Herald - July 13 1993",
+
+Print_Media_KentuckyHerald_July13_info = "<type:parent, width:915, height:750>"..
+"<type:texture, width:900, height:750, pivotX:-0.01, pivotY:0.01, angle:0.4 , r:125/255.0, g:125/255.0, b:125/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.012, pivotY:0.012, angle:-0.4 , r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.009, pivotY:0.008, angle:-0.25 , r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.007, pivotY:0.006, angle:0.3 , r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:900, height:750, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:900, height:750, scaleX:-1, scaleY:1, pivotX:0, pivotY:1, angle:180, a:0.6>"..
+"<type:text, x:5, y:135, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Volume 277, No. 30"..
+"<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>LOUISVILLE, TUESDAY, JULY 13, 1993"..
+"<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>32 PAGES - 35c"..
+"<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.75, scaleY:1.75, textLeading:-4, font:UIFont.SdfOldBold>"Knox Event Contained" - Officials"..
+"<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> "Curfew Not Needed"^   - Louisville Mayor"..
+"<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>   Mayor downplays rumors^     after picture leak panic"..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>     Louisville - Mayor Terence Stahl dismissed rumors that Louisville will implement a voluntary curfew, in response to multiple other cities doing so.                                             'Let those coastal elites panic,' said Mayor Stahl at a press con- ference on Monday. "Louisvillians are made of stronger stuff. We don't know anything about this illness, or virus, or whatever it is. The authorities are fully in control. Fear will hurt us far more than any outbreak can. It's, frankly, pretty disgusting, to suggest curfews do anything but make a tense situation a lot worse. Not to mention the financial impact on the economy, if local bars,  businesses  and  restau-"..
+"<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>  Leaked photo^raises questions"..
+"<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>    Officials move to dampen^            growing panic"..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Knox    Event    Zone,    Ky. - The President, along with CDC and military officials, moved swiftly to reassure the public that the "Knox Virus" remains isolated within the Exclusion Zone after the leaking of a gruesome photo from within the Knox Event Zone yesterday.                 The photograph allegedly shows a person infected with the virus in a street full of bodies, causing panic among the public, and confusion about the seriousness of the virus.        A dripfeed of information from military insiders, along with short- -range radio messages from those trapped within the Event Zone undermine the claims by military"..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold>The photograph, shown here censored for the dignity of the victims, shows a man with grievous injuries to one arm, standing in a street filled with bloodied bodies. "..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>Knox Zone Not^Being Supplied"..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>Earthquake Strikes^ Hokkaido, Japan"..
+"<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:3, x:900/2, y:130, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:150, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:420, height:350, x:900/2, y:250, pivotX:0.5, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:235, height:2, x:120, y:251, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252, x:238, y:250, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:325, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:385, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:252, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252-430, x:664, y:250+430, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:340, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:405, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:320, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:550, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly13.png"), width:416, height:346, pivotX:0.5, x:900/2, y:252, scaleX:1, scaleY:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/TheKentuckyHerald.png"), width:660, height:80, x:900/2, y:38, pivotX:0.5, pivotY:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KH_Gradient_1.png"), width:915, height:750, pivotX:0.0004, pivotY:-0.0004, a:1>",
+
+Print_Media_KentuckyHerald_July14_title = "The Kentucky Herald - July 14 1993",
+
+Print_Media_KentuckyHerald_July14_info = "<type:parent, width:915, height:750>"..
+"<type:texture, width:900, height:750, pivotX:-0.01, pivotY:0.01, angle:0.4 , r:125/255.0, g:125/255.0, b:125/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.01, pivotY:0.012, angle:-0.4 , r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.007, pivotY:0.008, angle:-0.25 , r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.004, pivotY:0.006, angle:0.3 , r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:900, height:750, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:750, height:900, scaleX:1, scaleY:1, pivotX:1, pivotY:0, angle:90, a:0.6>"..
+"<type:text, x:5, y:135, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Volume 277, No. 31"..
+"<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>LOUISVILLE, WEDNESDAY, JULY 14, 1993"..
+"<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>32 PAGES - 35c"..
+"<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.75, scaleY:1.75, textLeading:-4, font:UIFont.SdfOldBold>"No Need for Panic" - Gen. McGrew"..
+"<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> Vatican City, Mecca,^    Close to Pilgrims"..
+"<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>   Two major religious sites^    closed due to virus fears"..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Vatican City, the seat of the Roman Catholic Pope, and Mecca, the holiest city in Islam, are closing their doors to the outside world due to the threat of the "Knox Virus."           The Pontiff has asked for "forgiveness and prayers" as the fortified city, located in the center of Rome, closed its doors to the public. The Swiss Guard has said it is "prepared for the worst" as thou- sands of pilgrims, already stranded due to the international grounding of flights, will be forced to limit their movements under new restric- tions in the Italian capital.                      Saudi Arabia, which closed its borders indefinitely yesterday, has also  announced   that  the  city  of"..
+"<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>  Virus lethal^but "contained""..
+"<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>    President leaves capital^   - "unrelated to outbreak""..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Knox Event Zone - Gen. John McGrew released a statement on Tuesday admitting that the "Knox Virus" is degenerative, but claiming that its spread is contained within the Event Boundary which now encompasses hundreds of square miles of the state of Kentucky.               The CDC has released a statement saying that though the virus seems to cause great violence between sufferers, its method of transmission through fluid contact is an inefficient way of spreading.          Officials have also denied that the President has left Washington, D.C., due to the virus, saying his absence concerns  a  private  family"..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold>Gen. John McGrew claimed "there is no need for further panic" amidst growing concern about the "Knox Virus's" lethality and infection rate."..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold> Dems Join GOP^President Critics"..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>  Louisville Mayor:^"We Remain Open""..
+"<type:texture, pivotX:0.5, x:900/2, y:250, width:420, height:350, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:3, x:900/2, y:130, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:150, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:235, height:2, x:120, y:251, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252, x:238, y:250, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:325, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:385, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:252, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252-430, x:664, y:250+430, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:340, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:405, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:320, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:550, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly14.png"), width:416, height:346, pivotX:0.5, x:900/2, y:252, scaleX:1, scaleY:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/TheKentuckyHerald.png"), width:660, height:80, x:900/2, y:38, pivotX:0.5, pivotY:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KH_Gradient_1.png"), pivotX:0.0004, pivotY:-0.0004, width:915, height:750, a:1>",
+
+Print_Media_KentuckyHerald_July15_title = "The Kentucky Herald - July 15 1993",
+
+Print_Media_KentuckyHerald_July15_info = "<type:parent, width:915, height:750>"..
+"<type:texture, width:900, height:750, pivotX:-0.009, pivotY:0.01, angle:0.4 , r:125/255.0, g:125/255.0, b:125/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.007, pivotY:0.012, angle:-0.4 , r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.006, pivotY:0.008, angle:-0.25 , r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.003, pivotY:0.006, angle:0.3 , r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:900, height:750, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:750, height:900, scaleX:-1, scaleY:1, pivotX:0, pivotY:0, angle:90, a:0.4>"..
+"<type:text, x:5, y:135, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Volume 277, No. 32"..
+"<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>LOUISVILLE, THURSDAY, JULY 15, 1993"..
+"<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>32 PAGES - 35c"..
+"<type:text, x:900/2, y:212, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:2.2, scaleY:2.2, textLeading:-4, font:UIFont.SdfOldBold>Knox Boundary Breached"..
+"<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>  States debate^ Knox solutions"..
+"<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>     Authorities considering ^         "radical solutions""..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       The  Tennessee  legislature voted to provide free firearms for all "steady-minded" residents. The California Supreme Court is moving to Santa Catalina Island. Both Houses of Congress have limited their attendance to 25%. These are just some of the strange scenes as authorities debate what to do about the Knox Virus.                                      The debates centered on two topics: how to deal with the in- fected, and where safe zones could be set up to protect uninfected citizens. Suggestions ranged from quarantine to summary execution of the infected.                                           Reports following the Knox  boundary breach  suggest that the"..
+"<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold> Dozens dead,^Army retreats"..
+"<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>    Gunfire and casualties^   reported at Knox border"..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Knox Event Zone - Dozens of people have been killed as the mil- itary boundary south of Louisville has been breached by a crowd of hundreds of people infected with the "Knox Virus".                                   Despite a shoot-to-kill policy put into place by authorities, the military was swiftly overwhelmed, and infected people attacked survi- vors living in tents in the Boundary Camp.                                                    The Knox Boundary Line is moving north towards Louisville as the military pulls back. Commu- nications are sparse as networks struggle with overwhelming de- mand   from   civilians   trying   to"..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold>Hundreds of people with the "Knox Virus" mindlessly attacked personnel and barricades with their hands, overwhelming military and civilians alike."..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>  Event cancellations^  "Up to Organizers""..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>Governor Accepts^Federal Aid Need"..
+"<type:texture, pivotX:0.5, x:900/2, y:250, width:420, height:350, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:3, x:900/2, y:130, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:150, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:235, height:2, x:120, y:251, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252, x:238, y:250, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:325, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:385, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:252, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252-430, x:664, y:250+430, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:340, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:405, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:320, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:550, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly15.png"), width:416, height:346, pivotX:0.5, x:900/2, y:252, scaleX:1, scaleY:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/TheKentuckyHerald.png"), width:660, height:80, x:900/2, y:38, pivotX:0.5, pivotY:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KH_Gradient_1.png"), width:915, height:750, pivotX:0.0004, pivotY:-0.0004, a:1>",
+
+Print_Media_KentuckyHerald_July16_title = "The Kentucky Herald - July 16 1993",
+
+Print_Media_KentuckyHerald_July16_info = "<type:parent, width:915, height:750>"..
+"<type:texture, width:900, height:750, pivotX:-0.009, pivotY:0.01, angle:0.3 , r:125/255.0, g:125/255.0, b:125/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.007, pivotY:0.012, angle:-0.4 , r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.005, pivotY:0.008, angle:0.2 , r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.002, pivotY:0.006, angle:0.1 , r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:900, height:750, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:900, height:750, scaleX:-1, scaleY:1, pivotX:1, pivotY:0, angle:0, a:0.4>"..
+"<type:text, x:5, y:135, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Volume 277, No. 33"..
+"<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>LOUISVILLE, FRIDAY, JULY 16, 1993"..
+"<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>8 PAGES - FREE"..
+"<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.75, scaleY:1.75, textLeading:-4, font:UIFont.SdfOldBold>Knox Virus Spreads Through Air"..
+"<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>  A Special Message^   From The Herald"..
+"<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>   Thank you to^  all our readers"..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       This is likely the Kentucky Herald's final edition. The virus is in Louisville. Several of us here are running fevers, and there are hundreds of infected in the streets.         We wish to thank all our readers for being with us through these unprecedented times. If you are one of the few immune, you are the steward of a new world. It's now your duty to carry on the light of humanity and civilization. Even a single candle will cut through the deepest darkness.                                   May God have mercy on the rest of us and our loved ones."..
+"<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>Despair grips^nation, world"..
+"<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>    Handful Immune^     to 'Aerial Strain'"..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       The CDC has confirmed that the Knox Virus spreads rapidly through the air, although a small percentage of people are immune to the "aerial variant" of the virus. For everyone else, the likelihood of a cure or treatment is now close to zero. Help your elderly and vulnerable neighbors. Share food if you have more than you need. Avoid crowds at all costs.                                 As we saw at the boundary, gunfire attracts them. Have a baseball bat or other easy-to-use weapon ready and don't be afraid to attack them. Once they die and come back, they only want to spread the virus."..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold>A group of infected photographed by one of our team on the way to our offices on Thursday, near downtown Louisville. They were able to pass by safely."..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>   Congress Evacuates^    to Mount Weather"..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>   Virus likely^"already global""..
+"<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:3, x:900/2, y:130, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:150, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:420, height:350, pivotX:0.5, x:900/2, y:250, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:235, height:2, x:120, y:251, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252, x:238, y:250, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:325, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:385, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:252, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252-430, x:664, y:250+430, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:340, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:405, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:320, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:550, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly16.png"), width:416, height:346, pivotX:0.5, x:900/2, y:252, scaleX:1, scaleY:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/TheKentuckyHerald.png"), width:660, height:80, x:900/2, y:38, pivotX:0.5, pivotY:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KH_Gradient_1.png"), width:915, height:750, pivotX:0.0004, pivotY:-0.0004, a:1>",
+
+Print_Media_NationalDispatch_July6_title = "The National Dispatch - July 6, 1993",
+
+Print_Media_NationalDispatch_July6_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:865, height:820, pivotX:-0.009, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.007, pivotY:0, angle:0.3, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.003, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.002, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:865, height:820, scaleX:-1, scaleY:-1, pivotX:1, pivotY:1, angle:0, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>New York, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>July 6, 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-59"..
+"<type:text, x:15, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.058, scaleY:1.058, font:UIFont.SdfOldBoldItalic>IRAQ MAY STOP DEALING WITH UN"..
+"<type:text, x:670, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, font:UIFont.SdfOldBold> Two Arrests^  For 'Daring' ^    Parisian^  Gem Heist"..
+"<type:text, x:680, y:290, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Jeff Franks"..
+"<type:text, x:680, y:306, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>       PARIS, France - Police in the French capital made two arrests on Monday following a months long investigation into a daring heist at one of Paris's most exclusive hotels.                                 Marie-Christine Lacour and Claude Beaumarchais were charged with decep- tion, burglary, assault, drug possession, and grand larceny after police linked the pair to the theft at the Paris Havisham last October. The pair, who are famous social- ites, are being accused of infiltrating the Havisham hotel disguised as staff and abseiling down seven stories to the balcony of a room, where a prominent European royal was staying. They drilled a hole in the room's window"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Heist," A12)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Molly Aoide"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>        BAGHDAD,  Iraq  - In a press conference on Monday, the Iraqi pres- ident said that the country may stop cooperating with the United Nations on the destruction of non-conven- tional weapons if a stand- off over missile site monitoring is not quickly resolved.                                 "The Americans think we are weak," said the president from his palace. "We have weapons of such awesome power that they would cry like dogs were they even to learn of them. And yet, we are willing to give up such things, and pursue a path of peace, if we  are  dealt with  fairly." A spokesman for the US president refused to com- ment on speculation that the president's cancella- tion of his attendance at the G7 meetings in Tokyo, scheduled to begin on Wednesday, were related to the Iraqi announce- ment.                                         The other six G7 member countries - Japan, Canada,    France,   Italy,"..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:381, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Germany, and the UK, along with the European Community - are expected to discuss a range of inter- national issues, including aid  for   further  business"..
+"<type:text, x:347, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>privatizations in Russia, nuclear weapons in the former Soviet Union and North Korea, and the deteriorating situation in the area formerly known"..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>as Yugoslavia. This G7 meeting, the 19th, will be the   first   for   President"..
+"<type:texture, width:146, height:1, x:510, y:770, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:782, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Iraq," A10)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold>The Iraqi president speaking to international media in Baghdad."..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly6.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_NationalDispatch_July7_title = "The National Dispatch - July 7, 1993",
+
+Print_Media_NationalDispatch_July7_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:865, height:820, pivotX:-0.012, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.009, pivotY:0, angle:0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.006, pivotY:0, angle:-0.3, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.001, pivotY:0, angle:0.25, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:865, height:820, pivotY:0, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>New York, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>July 7, 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-60"..
+"<type:text, x:60, y:140, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.33, scaleY:1.33, font:UIFont.SdfOldBoldItalic>BLOCKADE IN KENTUCKY"..
+"<type:text, x:690, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, textTracking:0.5, font:UIFont.SdfOldBold>    Op-Ed:^  Kentucky^Obfuscation^  Will Fuel^   Paranoia"..
+"<type:text, x:680, y:295, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Keith Haroldson"..
+"<type:text, x:680, y:311, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Opinion Writer"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>       The  military's  move to blockade a large area of Kentucky, rumoured to be due to some sort of toxic waste leak, along with the military's total refusal to answer questions about what is going on, carries eerie echoes of recent stand-offs between federal authorities and various armed groups.                          While  those  groups in general were almost certainly hostile and very dangerous, the new oper- ation  will  add  fuel to the fires of conspiracy theo- rists, including American separatist movements and anti-federalists, who see the federal government as increasingly trampling on the rights of its citizens.           Indeed,  even  those of us in the center are shocked  by  the  move  to"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Paranoia", A11)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Jeff Franks"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:379, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>             KENTUCKY - The US military on Monday blocked roads and highways leading to and from the area of Kentucky informally known as "Knox Country," the counties near Fort Knox, without declaring the reason for doing so.                                   Hundreds of military personnel, fully armed and in battle gear, arrived in the area early Tuesday morning, encircling thou- sands of civilians within the cordon, as well as displacing hundreds of people who live outside the boundary. Rumors abound of a military exercise, but all calls to army officials went unanswered.                      Telephone lines have also been down in the area for the last several days, making communication with the cordoned-off area almost impossible.                     One West Point resi- dent, Larry Stoddard, said that after finishing his usual night shift as a nurse in Louisville, he saw, "soldiers  in  the  distance."..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Not unusual in Knox, but then I saw them putting up a fence all along the road. It was like a movie. Then this huge truck pulled alongside  me,  and"..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>told me I couldn't go any further. I told the driver that I live in West Point but he said I couldn't go there." Several residents outside  the cordon report"..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>being ordered to move, with one claiming the sol- diers were "apologetic" when    doing    so,    and"..
+"<type:texture, width:146, height:1, x:510, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Blockade", A10)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold>Larry Stoddard speaking to local media. Military personnel refused^all requests for interview or comment."..
+"<type:text, x:590, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly7.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_NationalDispatch_July12_title = "The National Dispatch - July 12, 1993",
+
+Print_Media_NationalDispatch_July12_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:865, height:820, pivotX:-0.014, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.01, pivotY:0, angle:0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.007, pivotY:0, angle:-0.1, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.003, pivotY:0, angle:0.3, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:820, height:865, scaleX:1, scaleY:1, pivotX:1, angle:90, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>New York, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>July 12, 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-65"..
+"<type:text, x:15, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.22, scaleY:1.22, font:UIFont.SdfOldBoldItalic>WHO: "GROUND ALL FLIGHTS""..
+"<type:text, x:700, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>   Op-Ed:^  Worried^   Silence^Prevails in^ Louisville"..
+"<type:text, x:680, y:295, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Keith Haroldson"..
+"<type:text, x:680, y:311, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Opinion Writer"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>       LOUISVILLE, Ky. - Despite riots and unrest in major cities, the streets of Louisville, only a short distance from the Knox Exclusion Zone, are  qui- eter than ever. And yet, despite attempts by many residents to look on the bright side and downplay the threat, it's clear many feel a gnawing anxiety about the Knox Virus.              Authorities are now saying that the virus, though deadly, spreads only through fluid contact, drawing comparisons to ebola outbreaks, which were eventually contained. But  there's  never  been an ebola outbreak so near to a major city, and some residents have already relocated over the Ohio River. Others are making plans  to  join  them,  and"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Silence", A13)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Molly Aoide"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>    GENEVA, Switzerland - Millions of travelers were thrown into limbo when the World Health Organi- zation on Sunday advised that all flights, excluding military and medical ones, be  suspended  worldwide to stop the "Knox Virus" spreading.                                 Though the WHO lacks any legal authority to  enforce  the  advice, all flights were grounded almost immediately by airlines shocked at the sudden nature of the an- nouncement.                             In a White House briefing,  the  President has called the WHO's an- nouncement "unwelcome and economically un- sound".                                    Air Erin CEO Ryan Byrne  said,  "We  knew this was coming, but we thought  we'd  at  least have time to prepare. We have to  comply.  None  of us want to be responsible for an outbreak, but we have businesses to run. The  cure  can't  be worse than the disease."..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>        Meanwhile, the Eu- ropean Community has advised all its member countries to close their internal and external borders  as  a  precaution."..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>It's understood that all EC member states will comply with the advice, though the United Kingdom has asked for a short delay before implementation."..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>The unprecedented advice  has  caused  concern  that"..
+"<type:texture, width:146, height:1, x:510, y:755, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:766, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Flights", A9)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold>Millions of travelers worldwide could be stranded."..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly12.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_NationalDispatch_July13_title = "The National Dispatch - July 13, 1993",
+
+Print_Media_NationalDispatch_July13_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:864, height:820, pivotX:-0.01, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:866, height:820, pivotX:-0.005, pivotY:0, angle:0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.003, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.001, pivotY:0, angle:0.3, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:865, height:820, scaleX:-1, scaleY:1, pivotX:0, pivotY:1, angle:180, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>New York, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>July 13, 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-66"..
+"<type:text, x:15, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.22, scaleY:1.22, font:UIFont.SdfOldBoldItalic>BLOODY KNOX IMAGE LEAKED"..
+"<type:text, x:685, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, font:UIFont.SdfOldBold> Hundreds^    Dead^  In Japan^Earthquake"..
+"<type:text, x:680, y:290, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Doris Hunt"..
+"<type:text, x:680, y:306, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>       HOKKAIDO, Japan - A strong earthquake struck off the coast of Japan at approximately 10:15 p.m. local time (9:15 a.m. Eastern) on Monday. The earthquake, estimated at 7.5 on the Richter scale, created a tsunami which inundated parts of the island of Hokkaido and struck coast of southeastern Russia.             Hundreds of people are feared dead, with fires and a landslide reported in the town of Okushiri on the small island of the same name near Hokkaido. The city was previously struck by a strong earthquake last January, which killed two people and injured more then a thousand. Monday's quake was far more devastating,     with     the"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Japan", A13)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Richard Carlson"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>     KNOX EXCLUSION ZONE  BORDER,  Ky.  - A new photograph that emerged Monday of an in- fected, dismembered, but apparently still-living man in a street full of bodies in the town of West Point within the Knox Exclusion Zone has raised more questions about both the government's response to the Knox Event.                        Thousands of resi- dents have been trapped within a cordoned-off zone of hundreds of square miles of Kentucky since July 6, with little commu- nication with the outside world.                                       The leaked picture has added yet more anger to the riots gripping cities nationwide, with curfews having little effect. With the Army and National Guard now deployed in major cities, tear gas and water cannons are being widely used against riot- ers, with soldiers return- ing live fire in several areas, though no casu- alties have  been reported."..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Authorities have stated that even peaceful daytime protests may have to be canceled, due to the likeli- hood of protestors being agitated to violence.^"..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>    Stock markets, already in freefall after the WHO's grounding of all flights on Sunday, plunged further as the picture spread to news agencies"..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>around the world. The Dow Jones was  suspended for"..
+"<type:texture, width:146, height:1, x:510, y:755, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:766, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Leaked", A10)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold>The picture has been obscured for the dignity of the victim."..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly13_2.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_NationalDispatch_July14_title = "The National Dispatch - July 14, 1993",
+
+Print_Media_NationalDispatch_July14_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:865, height:820, pivotX:-0.009, pivotY:0, angle:0.3, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.006, pivotY:0, angle:0.2, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.007, pivotY:0, angle:-0.4, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.003, pivotY:0, angle:0.1, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:820, height:865, scaleX:-1, scaleY:1, pivotX:0, pivotY:0, angle:90, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>New York, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>July 14, 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-67"..
+"<type:text, x:15, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.1, scaleY:1.1, font:UIFont.SdfOldBoldItalic>UN DENOUNCES KNOX RESPONSE"..
+"<type:text, x:685, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, font:UIFont.SdfOldBold>    WHO^   Decries^   Threats"..
+"<type:text, x:680, y:255, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Doris Hunt"..
+"<type:text, x:680, y:271, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
+"<type:text, x:678, y:305, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>   GENEVA,  Switzerland - The World Health Organ- ization has decried the hundreds of bomb and death threats against its headquarters and staff in Geneva,   calling   them "an extremely unhelpful response in a time of un- precedented crisis." Swiss police are closely monitor- ing the situation, which comes in the wake of the WHO's advice on July 11 for international flights worldwide to be grounded due to the Knox outbreak.        The advice, though voluntary, has been fol- lowed by almost every airline in the world, leav- ing millions of national and international travel- ers stranded, and forcing governments around the world to deal with the sudden stranding of vast numbers of tourists within their borders at the height"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Threats", A11)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Keith Haroldson"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>           NEW YORK, NY - Thirty-eight nations is- sued a joint statement through the United Na- tions denouncing what they termed a "complete lack of clarity" over the details of the Knox illness outbreak. The statement came hours after Gen. John McGrew, the mil- itary overseer of the Knox Containment Zone, said there was "no need for further panic" after the leaking of a gruesome photo from the Zone on Monday, along with con- firmation of extreme violence between the in- fected.                                    The President has left Washington, D.C., and could not be reached for comment.                                China was among the most vociferous critics of the US, with its dele- gates claiming the U.S. places, "the continued wealth of Wall Street above the common good of humanity", claims swiftly  condemned by U.S. allies.  Meanwhile, Vatican City"..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>is being closed due to the threat of the Knox illness. The  City's Swiss Guard has ordered all visitors to the city to evacuate, reportedly    against   the"..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>wishes of the Pope, who has called for, "forgive- ness and prayers". The citadel, located in the heart of Rome, will implement strict measures"..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>to ensure the health and safety of the city's approximately       1000 "..
+"<type:texture, width:146, height:1, x:510, y:772, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:786, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Response", A9)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>The Chinese delegate at the UN heavily criticized U.S. handling of the outbreak."..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly14.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_NationalDispatch_July15_title = "The National Dispatch - July 15, 1993",
+
+Print_Media_NationalDispatch_July15_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:865, height:820, pivotX:-0.012, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.01, pivotY:0, angle:-0.5, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.006, pivotY:0, angle:-0.3, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:864, height:820, pivotX:-0.003, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:865, height:820, scaleX:-1, scaleY:1, pivotX:1, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>New York, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>July 15, 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-68"..
+"<type:text, x:15, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.95, scaleY:0.95, font:UIFont.SdfOldBoldItalic>INFECTED OVERWHELM KNOX BORDER"..
+"<type:text, x:685, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, font:UIFont.SdfOldBold>     Virus^ May Spread^   Through^    the Air"..
+"<type:text, x:680, y:290, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Doris Hunt"..
+"<type:text, x:680, y:306, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>      KNOX REGION, KY - Some refugees and per- sonnel outside of the Exclusion Zone claim to have fallen ill from the "Knox Virus" despite not coming into contact with the infected. The claims have called in question statements from the au- thorities that the sickness can spread only through bites and scratches.                 A CDC official said the emergence of aerial transmission represented, "a greater threat to hu- manity than the Spanish Flu or the Black Death". The WHO has said the virus is likely already around the world, and that its advice to ground flights "almost certainly came too late to make a difference." Screening programs for  the  illness"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Virus", A11)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Molly Aoide"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:378, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>       KNOX EXCLUSION ZONE BORDER,  KY  - At approximately 5 a.m. Wednesday morning, hun- dreds of people infected with the "Knox Virus" broke through military barricades from inside the Exclusion Zone south of Louisville, Ky. Heavy live fire failed to stop the large group's advance.                      Up to 100 Army per- sonnel and civilians were killed, with many hun- dreds wounded. Witnesses report the sounds of battle attracted even more of the infected from a wide area. Both military and refugees near the border pulled back to Louisville.                    Large groups of the infected  attacked  houses in the suburbs throughout the day, moving slowly north towards the city, meeting only sporadic re- sistance, mostly by armed civilians. The streets and bridges out of Louisville quickly filled with panick- ed citizens fleeing over the Ohio River, and traffic jams have  been  reported"..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>as far north as Columbus, Ohio, and Indianapolis, Ind. Rioting and looting in other major cities have mostly given way to an orderly despair as citizens"..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>stock up on food, ammu- nition and other goods in case the scenes of panic and looting in Kentucky are repeated further afield."..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>    Military authorities have refused to answer   questions    about    their "..
+"<type:texture, width:146, height:1, x:510, y:772, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:786, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Border", A9)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold>Hundreds of the infected broke through fences, mindlessly attacking anyone^uninfected within reach."..
+"<type:text, x:590, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>AFFILIATED PRESS"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly15_2.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_LouisvilleSunTimes_July6_title = "Louisville Sun Times - July 6 1993",
+
+Print_Media_LouisvilleSunTimes_July6_info = "<type:parent, width:820, height:810>"..
+"<type:texture, width:805, height:800, pivotX:-0.014, pivotY:0, angle:-0.4, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:0, g:0, b:0, width:805.3, height:800, pivotX:-0.014, pivotY:0, angle:-0.4, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.01, pivotY:0, angle:-0.3, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:145/255.0, g:145/255.0, b:145/255.0, width:805.2, height:800, pivotX:-0.01, pivotY:0, angle:-0.3, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.008, pivotY:0, angle:0.1, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:165/255.0, g:165/255.0, b:165/255.0, width:805.2, height:800, pivotX:-0.008, pivotY:0, angle:0.1, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.006, pivotY:0, angle:-0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:185/255.0, g:185/255.0, b:185/255.0, width:805.2, height:800, pivotX:-0.006, pivotY:0, angle:-0.2, a:0.8>"..
+"<type:texture, width:805, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:805, height:800, scaleX:-1, scaleY:1, pivotX:0, pivotY:1, angle:180, a:0.6>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), width:804.8, height:800, r:205/255.0, g:205/255.0, b:205/255.0, pivotX:0, pivotY:0, angle:0, y:800, scaleY:-1, a:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:800, height:805, pivotX:0, pivotY:0, scaleX:-1, scaleY:1, angle:90, a:0.2>"..
+"<type:texture, width:320, height:15, x:5, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:texture, width:318, height:15, x:465, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:789/2, y:115, r:0, g:0, b:0, a:1, pivotX:0.5, pivotY:0.5, scaleX:0.6, scaleY:0.6, textLeading:-12, font:UIFont.SdfItalic>LATE CITY FINAL"..
+"<type:text, x:10, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>Tuesday, July 6, 1993"..
+"<type:text, x:580, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>40¢ in Louisville, 50¢ elsewhere"..
+"<type:texture, width:778, height:660, x:5, y:132, r:0, g:0, b:0>"..
+"<type:texture, x:9, y:136, width:770, height:652, texture:getTexture("media/textures/printMedia/NewspaperPics/LSTJuly6.png")>"..
+"<type:text, x:30, y:135, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:1.5, scaleY:1.5, textLeading:-22, shadow:true, outlineThick:0.3, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>WHAT IS GOING ON ^IN MULDRAUGH?"..
+"<type:text, x:450, y:490, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Mystery ILLNESS^spreading in region"..
+"<type:text, x:450, y:580, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>CDC SILENT as^military on MOVE"..
+"<type:text, x:450, y:670, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Could it be a LEAK from^a MILITARY LAB?"..
+"<type:texture, x:420, y:505, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:595, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:685, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, width:789, height:300, a:1, x:0, y:-100,texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_LouisvilleSunTimes_July13_title = "Louisville Sun Times - July 13 1993",
+
+Print_Media_LouisvilleSunTimes_July13_info = "<type:parent, width:820, height:810>"..
+"<type:texture, width:805, height:800, pivotX:-0.01, pivotY:0, angle:0.4, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:0, g:0, b:0, width:805.3, height:800, pivotX:-0.01, pivotY:0, angle:0.4, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.009, pivotY:0, angle:-0.3, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:145/255.0, g:145/255.0, b:145/255.0, width:805.2, height:800, pivotX:-0.009, pivotY:0, angle:-0.3, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.008, pivotY:0, angle:-0.4, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:165/255.0, g:165/255.0, b:165/255.0, width:805.2, height:800, pivotX:-0.008, pivotY:0, angle:-0.4, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.003, pivotY:0, angle:0.3, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:185/255.0, g:185/255.0, b:185/255.0, width:805.2, height:800, pivotX:-0.003, pivotY:0, angle:0.3, a:0.8>"..
+"<type:texture, width:805, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:800, height:805, scaleX:1, scaleY:1, pivotX:1, pivotY:0, angle:90, a:0.6>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), width:804.8, height:800, r:205/255.0, g:205/255.0, b:205/255.0, pivotX:0, pivotY:0, angle:0, y:800, scaleY:-1, a:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:800, height:805, pivotX:0, pivotY:1, scaleX:1, scaleY:1, angle:-90, a:0.2>"..
+"<type:texture, width:320, height:15, x:5, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:texture, width:318, height:15, x:465, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:789/2, y:115, r:0, g:0, b:0, a:1, pivotX:0.5, pivotY:0.5, scaleX:0.6, scaleY:0.6, textLeading:-12, font:UIFont.SdfItalic>LATE CITY FINAL"..
+"<type:text, x:10, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>Tuesday, July 13, 1993"..
+"<type:text, x:580, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>40¢ in Louisville, 50¢ elsewhere"..
+"<type:texture, width:778, height:660, x:5, y:132, r:0, g:0, b:0>"..
+"<type:texture, x:9, y:136, width:770, height:652, texture:getTexture("media/textures/printMedia/NewspaperPics/LSTJuly13.png")>"..
+"<type:text, x:30, y:135, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:1.5, scaleY:1.5, textLeading:-22, shadow:true, outlineThick:0.3, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>ALIVE OR DEAD?"..
+"<type:text, x:450, y:490, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>"Knox Virus" creates^"WALKING CORPSES""..
+"<type:text, x:450, y:580, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Knox Exclusion^Zone WIDENED"..
+"<type:text, x:450, y:670, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Nationwide CURFEW as^riots continue"..
+"<type:texture, x:420, y:505, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:595, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:685, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, width:789, height:300, x:0, y:-100,texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_LouisvilleSunTimes_July14_title = "Louisville Sun Times - July 14 1993",
+
+Print_Media_LouisvilleSunTimes_July14_info = "<type:parent, width:820, height:810>"..
+"<type:texture, width:805, height:800, pivotX:-0.012, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:0, g:0, b:0, width:805.3, height:800, pivotX:-0.012, pivotY:0, angle:0.2, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.01, pivotY:0, angle:-0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:145/255.0, g:145/255.0, b:145/255.0, width:805.2, height:800, pivotX:-0.01, pivotY:0, angle:-0.1, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.007, pivotY:0, angle:-0.4, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:165/255.0, g:165/255.0, b:165/255.0, width:805.2, height:800, pivotX:-0.007, pivotY:0, angle:-0.4, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.003, pivotY:0, angle:0.1, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:185/255.0, g:185/255.0, b:185/255.0, width:805.2, height:800, pivotX:-0.003, pivotY:0, angle:0.1, a:0.8>"..
+"<type:texture, width:805, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:800, height:805, scaleX:-1, scaleY:1, pivotX:0, pivotY:0, angle:90, a:0.6>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), width:804.8, height:800, r:205/255.0, g:205/255.0, b:205/255.0, pivotX:0, pivotY:0, angle:0, y:800, scaleY:-1, a:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:800, height:805, pivotX:1, pivotY:0, scaleX:1, scaleY:1, angle:90, a:0.2>"..
+"<type:texture, width:320, height:15, x:5, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:texture, width:318, height:15, x:465, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:789/2, y:115, r:0, g:0, b:0, a:1, pivotX:0.5, pivotY:0.5, scaleX:0.6, scaleY:0.6, textLeading:-12, font:UIFont.SdfItalic>LATE CITY FINAL"..
+"<type:text, x:10, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>Wednesday, July 14, 1993"..
+"<type:text, x:580, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>40¢ in Louisville, 50¢ elsewhere"..
+"<type:texture, width:778, height:660, x:5, y:132, r:0, g:0, b:0>"..
+"<type:texture, x:9, y:136, width:770, height:652, texture:getTexture("media/textures/printMedia/NewspaperPics/LSTJuly14.png")>"..
+"<type:text, x:30, y:135, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:1.5, scaleY:1.5, textLeading:-22, shadow:true, outlineThick:0.3, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>PRESIDENT LEAVES^WASHINGTON - ^"YOU'RE ON^YOUR OWN!""..
+"<type:text, x:450, y:490, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>"Knox Virus" spreads^through FLUID contact"..
+"<type:text, x:450, y:580, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Zone Military RELEASE^held civilians"..
+"<type:text, x:450, y:670, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Signals DISRUPTED^by interference"..
+"<type:texture, x:420, y:505, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:595, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:685, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, width:789, height:300, x:0, y:-100,texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_LouisvilleSunTimes_July15_title = "Louisville Sun Times - July 15 1993",
+
+Print_Media_LouisvilleSunTimes_July15_info = "<type:parent, width:820, height:810>"..
+"<type:texture, width:805, height:800, pivotX:-0.012, pivotY:0, angle:0.3, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:0, g:0, b:0, width:805.3, height:800, pivotX:-0.012, pivotY:0, angle:0.3, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.01, pivotY:0, angle:0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:145/255.0, g:145/255.0, b:145/255.0, width:805.2, height:800, pivotX:-0.01, pivotY:0, angle:0.1, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.007, pivotY:0, angle:-0.1, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:165/255.0, g:165/255.0, b:165/255.0, width:805.2, height:800, pivotX:-0.007, pivotY:0, angle:-0.1, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.003, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:185/255.0, g:185/255.0, b:185/255.0, width:805.2, height:800, pivotX:-0.003, pivotY:0, angle:0.2, a:0.8>"..
+"<type:texture, width:805, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:805, height:800, pivotX:0, pivotY:0, a:0.6>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), width:804.8, height:800, r:205/255.0, g:205/255.0, b:205/255.0, pivotX:0, pivotY:0, angle:0, y:800, scaleY:-1, a:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:805, height:800, pivotX:0, pivotY:0, scaleX:1, scaleY:1, angle:0, a:0.2>"..
+"<type:texture, width:320, height:15, x:5, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:texture, width:318, height:15, x:465, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:789/2, y:115, r:0, g:0, b:0, a:1, pivotX:0.5, pivotY:0.5, scaleX:0.6, scaleY:0.6, textLeading:-12, font:UIFont.SdfItalic>LATE CITY FINAL"..
+"<type:text, x:10, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>Thursday, July 15, 1993"..
+"<type:text, x:580, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>40¢ in Louisville, 50¢ elsewhere"..
+"<type:texture, width:778, height:660, x:5, y:132, r:0, g:0, b:0>"..
+"<type:texture, x:9, y:136, width:770, height:652, texture:getTexture("media/textures/printMedia/NewspaperPics/LSTJuly15.png")>"..
+"<type:text, x:30, y:135, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:1.5, scaleY:1.5, textLeading:-22, shadow:true, outlineThick:0.3, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>INFECTED BREACH^KNOX ZONE^BARRIER"..
+"<type:text, x:450, y:490, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>HUNDREDS of infected^BREACH barricades"..
+"<type:text, x:450, y:580, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>PANIC as civilians^flee Louisville, state"..
+"<type:text, x:450, y:670, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Mayor: "We are STILL^safe.""..
+"<type:texture, x:420, y:505, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:595, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:685, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, width:789, height:300, x:0, y:-100,texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_LouisvilleSunTimes_July16_title = "Louisville Sun-Times - July 16 1993",
+
+Print_Media_LouisvilleSunTimes_July16_info = "<type:parent, width:820, height:810>"..
+"<type:texture, width:805, height:800, pivotX:-0.012, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:0, g:0, b:0, width:805.3, height:800, pivotX:-0.012, pivotY:0, angle:0.1, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.01, pivotY:0, angle:-0.5, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:145/255.0, g:145/255.0, b:145/255.0, width:805.2, height:800, pivotX:-0.01, pivotY:0, angle:-0.5, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.006, pivotY:0, angle:-0.3, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:165/255.0, g:165/255.0, b:165/255.0, width:805.2, height:800, pivotX:-0.006, pivotY:0, angle:-0.3, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.003, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:185/255.0, g:185/255.0, b:185/255.0, width:805.2, height:800, pivotX:-0.003, pivotY:0, angle:0.2, a:0.8>"..
+"<type:texture, width:805, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:805, height:800, scaleX:-1, scaleY:1, pivotX:1, pivotY:0, angle:0, a:0.6>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), width:804.8, height:800, r:205/255.0, g:205/255.0, b:205/255.0, pivotX:0, pivotY:0, angle:0, y:800, scaleY:-1, a:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:805, height:800, pivotX:0, pivotY:0, scaleX:1, scaleY:-1, y:800, angle:0, a:0.2>"..
+"<type:texture, width:320, height:15, x:5, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:texture, width:318, height:15, x:465, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:789/2, y:115, r:0, g:0, b:0, a:1, pivotX:0.5, pivotY:0.5, scaleX:0.6, scaleY:0.6, textLeading:-12, font:UIFont.SdfItalic>LATE CITY FINAL"..
+"<type:text, x:10, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>Friday, July 16, 1993"..
+"<type:text, x:580, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>40¢ in Louisville, 50¢ elsewhere"..
+"<type:texture, width:778, height:660, x:789/2, y:132, r:0, g:0, b:0, pivotX:0.5, pivotY:0,>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LSTJuly16.png"), x:9, y:136, width:770, height:652>"..
+"<type:text, x:30, y:135, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:1.5, scaleY:1.5, textLeading:-22, shadow:true, outlineThick:0.3, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>LOUISVILLE OVERRUN^- PRAY FOR US"..
+"<type:text, x:450, y:450, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Military DEFEATED^by Knox Virus "..
+"<type:text, x:450, y:540, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Virus spreading^WITHOUT bites"..
+"<type:text, x:450, y:630, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Barricade your house^and load your GUNS,^before it's too late"..
+"<type:texture, x:420, y:465, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:555, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:645, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, width:789, height:300, x:0, y:-100,texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+
+Print_Media_PonyRoamO_title = "Pony Roam-O",
+
+Print_Media_McCoyLoggingCorp_title = "McCoy Logging Co.",
+
+Print_Media_NolansUsedCars_title = "Nolan's Used Cars",
+
+Print_Media_WestMapleCountryClub_title = "West Maple Country Club",
+
+Print_Media_FashionaBelle_title = "FashionaBelle",
+
+Print_Media_TacodelPancho_title = "Taco del Pancho",
+
+Print_Media_CrossRoadsMall_title = "Crossroads Mall",
+
+Print_Media_UStoreItRiverside_title = "U-Store It (Riverside)",
+
+Print_Media_UStoreItLouisville_title = "U-Store It (Louisville)",
+
+Print_Media_UStoreItMuldraugh_title = "U-Store It (Muldraugh)",
+
+Print_Media_Fossoil1_title = "Fossoil (Muldraugh)",
+
+Print_Media_Fossoil2_title = "Fossoil (West Point)",
+
+Print_Media_Fossoil3_title = "Fossoil (Rosewood)",
+
+Print_Media_Fossoil4_title = "Fossoil (Ekron)",
+
+Print_Media_Fossoil5_title = "Fossoil (Riverside)",
+
+Print_Media_Fossoil6_title = "Fossoil (Brandenburg)",
+
+Print_Media_Fossoil7_title = "Fossoil (Southwest Louisville)",
+
+Print_Media_Fossoil8_title = "Fossoil (South Louisville)",
+
+Print_Media_YoureWelcomeAboardtheDelilah_title = "You're Welcome Aboard the Delilah",
+
+Print_Media_ChapelmountDownsRacetrack_title = "Chapelmount Downs Racetrack",
+
+Print_Media_BensCabin_title = "Cabin for Rent (West Point)",
+
+Print_Media_GrandOhioMall_title = "Grand Ohio Mall",
+
+Print_Media_DragRacingTrack_title = "Drag Racing Track",
+
+Print_Media_ArtGalleryofLouisville_title = "Art Gallery of Louisville",
+
+Print_Media_FossoilField_title = "Fossoil Field",
+
+Print_Media_SunstarMotel_title = "Sunstar Motel",
+
+Print_Media_HavishamSuites_title = "Havisham Suites",
+
+Print_Media_LouisvilleBruiser_title = "Louisville Bruiser Factory",
+
+Print_Media_TheSeaShanty_title = "The Sea Shanty",
+
+Print_Media_ScarletOakDistillery_title = "Scarlet Oak Distillery",
+
+Print_Media_ReadyPrep_title = "Ready Prep",
+
+Print_Media_WellingtonHeightsGolfClub_title = "Wellington Heights Golf Club",
+
+Print_Media_LSU_title = "Louisville State University",
+
+Print_Media_LectromaxManufacturingJobAd_title = "Lectromax Manufacturing Job Ad",
+
+Print_Media_SpiffosHiringDixie_title = "Spiffo's Hiring! (Dixie)",
+
+Print_Media_SpiffosHiringLouisville_title = "Spiffo's Hiring! (Louisville)",
+
+Print_Media_SpiffosHiringWestPoint_title = "Spiffo's Hiring! (West Point)",
+
+Print_Media_PizzaWhirled_title = "Pizza Whirled",
+
+Print_Media_PizzaWhirledJobAdRosewood_title = "Pizza Whirled (Rosewood)",
+
+Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "Pile o' Crepe Job Ad (Crossroads Mall)",
+
+Print_Media_HitVidsJobAdMarchRidge_title = "Hit Vids Job Ad (March Ridge)",
+
+Print_Media_MarchRidgeSchoolJobAd_title = "March Ridge School Job Ad",
+
+Print_Media_KnoxBankJobAdRosewood_title = "Knox Bank Job Ad (Rosewood)",
+
+Print_Media_FarmersMarket_title = "Farmer's Market",
+
+Print_Media_MuldraughBakeSale_title = "Muldraugh Ladies Committee Bake Sale",
+
+Print_Media_KnoxGunOwnersClubGetTogether_title = "Knox Gun Club Meeting (Velvet Tassel)",
+
+Print_Media_HouseforSale895_title = "House for Sale (no. 895)",
+
+Print_Media_HouseforSale903_title = "House for Sale (no. 903)",
+
+Print_Media_HouseforSale922_title = "House for Sale (no. 922)",
+
+Print_Media_HouseforSale934_title = "House for Sale (no. 934)",
+
+Print_Media_OnyxDriveinTheater_title = "Onyx Drive-in Theater",
+
+Print_Media_RedOakApartments_title = "Red Oak Apartments",
+
+Print_Media_DuCaseApartments_title = "Du Case Apartments",
+
+Print_Media_HighStreetApartments_title = "High Street Apartments",
+
+Print_Media_LowryCourt_title = "Lowry Court",
+
+Print_Media_UpscaleMobility_title = "Upscale Mobility",
+
+Print_Media_RoxysRollerRink_title = "Roxy's Roller Rink",
+
+Print_Media_ElveeArena_title = "Elvee Arena",
+
+Print_Media_July4PartyEasternLouisville_title = "Independence Day Party (Eastern Louisville)",
+
+Print_Media_RiversideIndependenceDayPartyAllWelcome_title = "Independence Day Party (Riverside)",
+
+Print_Media_FourthofJulyCelebrationDixieMobilePark_title = "Independence Day Party (Dixie Mobile Park)",
+
+Print_Media_SureFitnessBoxingClub_title = "Sure Fitness & Boxing Club",
+
+Print_Media_BrooksLibrary_title = "Brooks Public Library of Louisville",
+
+Print_Media_LouisvilleAnimalShelter_title = "Louisville Animal Shelter",
+
+Print_Media_KnoxPackKitchens_title = "Knox Pack Kitchens",
+
+Print_Media_SunsetPinesFuneralHome_title = "Sunset Pines Funeral Home",
+
+Print_Media_CardinalPlaza_title = "Cardinal Plaza",
+
+Print_Media_CircuitalHealing_title = "Circuital Healing",
+
+Print_Media_GnomeSweetGnome_title = "Gnome Sweet Gnome",
+
+Print_Media_MeadshireEstate_title = "Meadshire Estate",
+
+Print_Media_IrvingtonSpeedway_title = "Irvington Speedway",
+
+Print_Media_CivilWarfort_title = "Fort Prospect",
+
+Print_Media_GreenesJobAdEkron_title = "Greene's Job Ad (Ekron)",
+
+Print_Media_MailCarrierAdEkron_title = "Mail Carrier Ad (Ekron)",
+
+Print_Media_PremiseswithApartmentsforLeaselistingno891_title = "Premises with Apartments for Lease (listing no. 891)",
+
+Print_Media_HouseforSale907_title = "House for Sale (no. 907)",
+
+Print_Media_YourLocalShelterBrandenburg_title = "Your Local Shelter (Brandenburg)",
+
+Print_Media_BrandenburgAirfield_title = "Brandenburg Airfield",
+
+Print_Media_HouseforSale935_title = "House for Sale (no. 935)",
+
+Print_Media_PonyRoamO_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>"..
+
+Print_Media_McCoyLoggingCorp_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/McCoyLogging.png"), width:800, height:1131>"..,
+
+Print_Media_NolansUsedCars_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>"..,
+
+Print_Media_WestMapleCountryClub_info = "<type:parent, width:800, height:564>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WMCC.png"), width:800, height:564>",
+
+Print_Media_FashionaBelle_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fashionabelle.png"), width:800, height:1131>",
+
+Print_Media_TacodelPancho_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TacoDelPancho.png"), width:800, height:1131>",
+
+Print_Media_CrossRoadsMall_info = "",
+
+Print_Media_UStoreItRiverside_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/UStoreIt1.png"), width:800, height:1131>",
+
+Print_Media_UStoreItLouisville_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/UStoreIt2.png"), width:800, height:1131>",
+
+Print_Media_UStoreItMuldraugh_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/UStoreIt3.png"), width:800, height:1131>",
+
+Print_Media_Fossoil1_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil1.png"), width:800, height:1131>",
+
+Print_Media_Fossoil2_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil2.png"), width:800, height:1131>",
+
+Print_Media_Fossoil3_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil3.png"), width:800, height:1131>",
+
+Print_Media_Fossoil4_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil4.png"), width:800, height:1131>",
+
+Print_Media_Fossoil5_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil5.png"), width:800, height:1131>",
+
+Print_Media_Fossoil6_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil6.png"), width:800, height:1131>",
+
+Print_Media_Fossoil7_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil7.png"), width:800, height:1131>",
+
+Print_Media_Fossoil8_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil8.png"), width:800, height:1131>",
+
+Print_Media_YoureWelcomeAboardtheDelilah_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_ChapelmountDownsRacetrack_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>"..
+
+Print_Media_BensCabin_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WestPointCabin.png"), width:800, height:1131>",
+
+Print_Media_GrandOhioMall_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_DragRacingTrack_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_ArtGalleryofLouisville_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_FossoilField_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FossoilField.png"), width:800, height:1131>",
+
+Print_Media_SunstarMotel_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Sunstar.png"), width:800, height:1131>",
+
+Print_Media_HavishamSuites_info = "<type:parent, width:800, height:564>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Havisham.png"), width:800, height:564>",
+
+Print_Media_LouisvilleBruiser_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Bruiser.png"), width:800, height:1131>",
+
+Print_Media_TheSeaShanty_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SeaShanty.png"), width:800, height:1131>",
+
+Print_Media_ScarletOakDistillery_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ScarletOak.png"), width:800, height:1131>",
+
+Print_Media_ReadyPrep_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ReadyPrep.png"), width:800, height:1131>",
+
+Print_Media_WellingtonHeightsGolfClub_info = "<type:parent, width:800, height:564>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WHGC.png"), width:800, height:564>",
+
+Print_Media_LSU_info = "<type:parent, width:800, height:564>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LSU.png"), width:800, height:564>",
+
+Print_Media_LectromaxManufacturingJobAd_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Lectromax.png"), width:800, height:1131>",
+
+Print_Media_SpiffosHiringDixie_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_SpiffosHiringLouisville_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_SpiffosHiringWestPoint_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_PizzaWhirledJobAdRosewood_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/PizzaWhirledRosewood.png"), width:800, height:1131>",
+
+Print_Media_PileoCrepeJobAdCrossRoadsMall_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/PileOCrepeJob.png"), width:800, height:1131>",
+
+Print_Media_HitVidsJobAdMarchRidge_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/HitVids1.png"), width:800, height:1131>",
+
+Print_Media_MarchRidgeSchoolJobAd_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/MarchRidgeSchoolJob.png"), width:800, height:1131>",
+
+Print_Media_KnoxBankJobAdRosewood_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/KnoxBank1.png"), width:800, height:1131>",
+
+Print_Media_FarmersMarket_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FarmersMarket.png"), width:800, height:1131>",
+
+Print_Media_MuldraughBakeSale_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/BakeSale.png"), width:800, height:1131>",
+
+Print_Media_KnoxGunOwnersClubGetTogether_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/KnoxGunClub.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale895_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house895.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale903_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house903.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale922_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house922.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale934_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house934.png"), width:800, height:1131>",
+
+Print_Media_OnyxDriveinTheater_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Onyx.png"), width:800, height:1131>",
+
+Print_Media_RedOakApartments_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RedOak.png"), width:800, height:1131>",
+
+Print_Media_DuCaseApartments_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/DuCase.png"), width:800, height:1131>",
+
+Print_Media_HighStreetApartments_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/HighStreetApts.png"), width:800, height:1131>",
+
+Print_Media_LowryCourt_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LowryCourt.png"), width:800, height:1131>",
+
+Print_Media_UpscaleMobility_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_RoxysRollerRink_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_ElveeArena_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ElveeArena.png"), width:800, height:1131>",
+
+Print_Media_July4PartyEasternLouisville_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_RiversideIndependenceDayPartyAllWelcome_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RiversideJuly4.png"), width:800, height:1131>",
+
+Print_Media_FourthofJulyCelebrationDixieMobilePark_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/July4Dixie.png"), width:800, height:1131>",
+
+Print_Media_SureFitnessBoxingClub_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SureFitness.png"), width:800, height:1131>",
+
+Print_Media_BrooksLibrary_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_LouisvilleAnimalShelter_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_KnoxPackKitchens_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_SunsetPinesFuneralHome_info = "<type:parent, width:800, height:564>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SunsetPines.png"), width:800, height:564>",
+
+Print_Media_CardinalPlaza_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_CircuitalHealing_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CircuitalHealing.png"), width:800, height:1131>",
+
+Print_Media_GnomeSweetGnome_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_MeadshireEstate_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Meadshire.png"), width:800, height:1131>",
+
+Print_Media_IrvingtonSpeedway_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_CivilWarfort_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_GreenesJobAdEkron_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/GreenesEkron.png"), width:800, height:1131>",
+
+Print_Media_MailCarrierAdEkron_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/MailJobEkron.png"), width:800, height:1131>",
+
+Print_Media_PremiseswithApartmentsforLeaselistingno891_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house891.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale907_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house907.png"), width:800, height:1131>",
+
+Print_Media_YourLocalShelterBrandenburg_info = "<type:parent, width:800, height:564>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ShelterBBurg.png"), width:800, height:564>",
+
+Print_Media_BrandenburgAirfield_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale912_title = "House for Sale (no. 912)",
+
+Print_Media_HouseforSale912_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house912.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale915_title = "House for Sale (no. 915)",
+
+Print_Media_HouseforSale915_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house915.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale943_title = "House for Sale (no. 943)",
+
+Print_Media_HouseforSale943_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house943.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale930_title = "House for Sale (no. 930)",
+
+Print_Media_HouseforSale930_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house930.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale929_title = "House for Sale (no. 929)",
+
+Print_Media_HouseforSale929_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house929.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale919_title = "House for Sale (no. 919)",
+
+Print_Media_HouseforSale919_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house919.png"), width:800, height:1131>",
+
+Print_Media_LeafhillHeights_title = "Leafhill Heights Offices",
+
+Print_Media_LeafhillHeights_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Leafhill.png"), width:800, height:1131>",
+
+Print_Media_AmericanTire_title = "American Tire",
+
+Print_Media_AmericanTire_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_FarmingAndRuralSupplyDoeValley_title = "Farming & Rural Supply (Doe Valley)",
+
+Print_Media_FarmingAndRuralSupplyDoeValley_info = "<type:parent, width:800, height:564>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FarmingDV.png"), width:800, height:564>",
+
+Print_Media_LennysCarRepair_title = "Lenny's Car Repair",
+
+Print_Media_LennysCarRepair_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_CarFixation_title = "Car Fix-ation",
+
+Print_Media_CarFixation_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_AlsAutoShop_title = "Al's Auto Shop",
+
+Print_Media_AlsAutoShop_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/AlsAutoShop.png"), width:800, height:1131>",
+
+Print_Media_NailsAndNuts_title = "Nails & Nuts",
+
+Print_Media_NailsAndNuts_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NailsandNuts.png"), width:800, height:1131>",
+
+Print_Media_WPDIY_title = "West Point DIY",
+
+Print_Media_WPDIY_info = "<type:parent, width:850, height:600>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WPDIY.png"), width:800, height:564>",
+
+Print_Media_EPToolsLV_title = "E.P. Tools (Louisville)",
+
+Print_Media_EPToolsLV_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/EPTools.png"), width:800, height:1131>",
+
+Print_Media_RosewoodFD_title = "Rosewood Fire Department",
+
+Print_Media_RosewoodFD_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RosewoodFD.png"), width:800, height:1131>",
+
+Print_Media_BrandenburgFD_title = "Brandenburg Fire Department",
+
+Print_Media_BrandenburgFD_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/BBurgFire.png"), width:800, height:1131>",
+
+Print_Media_LVFD_title = "Louisville Fire Department",
+
+Print_Media_LVFD_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LVFD.png"), width:800, height:1131>",
+
+Print_Media_MuldraughPD_title = "Muldraugh Police",
+
+Print_Media_MuldraughPD_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/MuldraughPD.png"), width:800, height:1131>",
+
+Print_Media_LVPDHQ_title = "Louisville Police Headquarters",
+
+Print_Media_LVPDHQ_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LVPD.png"), width:800, height:1131>",
+
+Print_Media_RiversidePD_title = "Riverside Police",
+
+Print_Media_RiversidePD_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RiversidePD.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale845_title = "House and Land for Sale (listing no. 845)",
+
+Print_Media_HouseforSale845_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house845.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale851_title = "House for Sale (no. 851)",
+
+Print_Media_HouseforSale851_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house851.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale855_title = "House for Sale (no. 855)",
+
+Print_Media_HouseforSale855_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house855.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale860_title = "House for Sale (no. 860)",
+
+Print_Media_HouseforSale860_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house860.png"), width:800, height:1131>",
+
+Print_Media_PremisesforLease863_title = "Premises for Lease (listing no. 863)",
+
+Print_Media_PremisesforLease863_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house863.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale867_title = "House for Sale (no. 867)",
+
+Print_Media_HouseforSale867_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house867.png"), width:800, height:1131>",
+
+Print_Media_CabinforRentDixie_title = "Cabin for Rent (Dixie)",
+
+Print_Media_CabinforRentDixie_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/DixieCabin.png"), width:800, height:1131>",
+
+Print_Media_WPTownHall_title = "West Point Town Hall",
+
+Print_Media_WPTownHall_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WPTownHall.png"), width:800, height:1131>",
+
+Print_Media_DinerInTheWoods_title = "Diner in the Woods",
+
+Print_Media_DinerInTheWoods_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/DinerInTheWoods.png"), width:800, height:1131>",
+
+Print_Media_FallasLakeChurch_title = "Fallas Lake Church",
+
+Print_Media_FallasLakeChurch_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FallasChurch.png"), width:800, height:1131>",
+
+Print_Media_OldCGECorpBuilding_title = "Old CGE Corp Building",
+
+Print_Media_OldCGECorpBuilding_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CGECorp.png"), width:800, height:1131>",
+
+Print_Media_RustyRifle_title = "The Rusty Rifle",
+
+Print_Media_RustyRifle_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RustyRifle.png"), width:800, height:1131>",
+
+Print_Media_A1Hay_title= "A1 Hay",
+Print_Media_A1Hay_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_Airport_title= "Louisville International Airport",
+Print_Media_Airport_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_AMZSteel_title= "AMZ Steel",
+Print_Media_AMZSteel_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_BeefChunk_title= "Beef Chunk Jerky Co.",
+Print_Media_BeefChunk_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/BeefChunk.png"), width:800, height:1131>",
+
+Print_Media_BlueandWhiteBar_title= "Blue and White Bar",
+Print_Media_BlueandWhiteBar_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_BrottAuction_title= "Brott Cattle Farm Auction",
+Print_Media_BrottAuction_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_CabanCenter_title= "The Caban Center for Wildlife Rehabilitation",
+Print_Media_CabanCenter_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_CatonaHotTinGrill_title= "Cat on a Hot Tin Grill",
+Print_Media_CatonaHotTinGrill_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CatfishRestaurant.png"), width:800, height:1131>",
+
+Print_Media_Coalfield_title= "Coalfield",
+Print_Media_Coalfield_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_ColdWarBunker_title= "March Ridge Cold War Bunker",
+Print_Media_ColdWarBunker_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_DarkwallowGuestHouse_title= "Darkwallow Guest House",
+Print_Media_DarkwallowGuestHouse_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_EkronCollege_title= "Ekron Community College",
+Print_Media_EkronCollege_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_FiveAlarmChili_title= "Five Alarm Firehouse Chili",
+Print_Media_FiveAlarmChili_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_GoldenSunset_title= "Golden Sunset Nursing Home",
+Print_Media_GoldenSunset_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_GunsUnlimitedEchoCreek_title= "Guns Unlimited (Echo Creek)",
+Print_Media_GunsUnlimitedEchoCreek_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/GunsUnlimited.png"), width:800, height:1131>",
+
+Print_Media_HobbsandPerkinsHardware_title= "Hobbs and Perkins Hardware (Irvington)",
+Print_Media_HobbsandPerkinsHardware_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale787_title= "House for Sale (no. 787)",
+Print_Media_HouseforSale787_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house787.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale799_title= "House for Sale (no. 799)",
+Print_Media_HouseforSale799_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house799.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale818_title= "House for Sale (no. 818)",
+Print_Media_HouseforSale818_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house818.png"), width:800, height:1131>",
+
+Print_Media_IrvingtonGunClub_title= "Irvington Gun Club",
+Print_Media_IrvingtonGunClub_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/IrvingtonGunClub.png"), width:800, height:1131>",
+
+Print_Media_LoveDuet_title= "Love Duet Bride and Groom Boutique",
+Print_Media_LoveDuet_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_MadDansDen_title= "Mad Dan's Den",
+Print_Media_MadDansDen_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/MadDansDen.png"), width:800, height:1131>",
+
+Print_Media_MusicFest93_title= "Louisville Music Festival 1993",
+Print_Media_MusicFest93_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/MusicFest.png"), width:800, height:1131>",
+
+Print_Media_OvoFarms_title= "Ovo Farms",
+Print_Media_OvoFarms_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/OvoFarms.png"), width:800, height:1131>",
+
+Print_Media_Pondview_title= "Pondview Shopping Center",
+Print_Media_Pondview_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_QuillManor_title= "Brenford's Quill Manor",
+Print_Media_QuillManor_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_Sammies_title= "Sammie's (Brandenburg)",
+Print_Media_Sammies_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Sammies.png"), width:800, height:1131>",
+
+Print_Media_Sanatorium_title= "Sunderland Hills Sanatorium",
+Print_Media_Sanatorium_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_SleepEazzzeInn_title= "Sleep EaZZZe Inn (Louisville Airport)",
+Print_Media_SleepEazzzeInn_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_StuartandLogScrapyard_title= "Stuart and Log Scrapyard",
+Print_Media_StuartandLogScrapyard_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/StuartandLog.png"), width:800, height:1131>",
+
+Print_Media_TheWizardsKeep_title= "The Wizard's Keep",
+Print_Media_TheWizardsKeep_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_Twiggys_title= "Twiggy's",
+Print_Media_Twiggys_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Twiggys.png"), width:800, height:1131>",
+
+
+
+
+Print_Media_FlyerTemplate1_info = "<type:parent, width:484, height:800>"..
+"<type:texture, width:483, height:800, r:48/255.0, g:72/255.0, b:199/255.0>"..
+"<type:texture, width:483, height:144, x:0, y:0, texture:getTexture("media/textures/printMedia/logos/nolanLogo.png")>"..
+"<type:texture, width:483, height:350, x:0, y:144, texture:getTexture("media/textures/printMedia/FlyerPics/Nolan.png")>"..
+"<type:texture, width:130, height:90, x:12, y:670, r:246/255.0, g:208/255.0, b:0>"..
+"<type:texture, width:130, height:90, x:12+165, y:670, r:246/255.0, g:208/255.0, b:0>"..
+"<type:texture, width:130, height:90, x:10+330, y:670, r:246/255.0, g:208/255.0, b:0>"..
+"<type:text, x:484/2, y:400, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0.5, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:0, outlineThick:0.7, outlineColorR:1, outlineColorG:1, outlineColorB:1, outlineColorA:1, font:UIFont.SdfRobertoSans>Come on down to Nolan's!"..
+"<type:text, x:12, y:500, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBold>1993 MERCIA^LANG 4000"..
+"<type:text, x:12+165, y:500, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBold>1989 CHEVALIER^COSSETTE"..
+"<type:text, x:10+330, y:500, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBold>1991 MERCIA^LANG 4000S"..
+"<type:text, x:12, y:540, scaleX:0.35, scaleY:0.35, textLeading:-10, autoWidth:130/0.35, font:UIFont.SdfBold>This wonderful speci- men of German engi- neering, in stately azure, recently caught the eye of the son of a state senator, who snapped it up from our lot."..
+"<type:text, x:12+165, y:540, scaleX:0.35, scaleY:0.35, textLeading:-10, autoWidth:130/0.35, font:UIFont.SdfBold>This much-loved Ken- tucky-built classic re- cently found its third owner, a banker from Louisville. He promised not to take it (much) over the speed limit."..
+"<type:text, x:10+330, y:540, scaleX:0.35, scaleY:0.35, textLeading:-10, autoWidth:135/0.35, font:UIFont.SdfBold>This snow-white Mercia is now winding through Alpine passes, driven by a Swiss diplomat. He was neutral on every- thing, except great bar- gains."..
+"<type:text, x:12, y:646, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>PRICE: $"..
+"<type:text, x:73, y:646, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>85,000"..
+"<type:text, x:12+165, y:646, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>PRICE: $"..
+"<type:text, x:73+165, y:646, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>40,000"..
+"<type:text, x:10+330, y:646, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>PRICE: $"..
+"<type:text, x:71+330, y:646, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>72,000"..
+"<type:text, x:484/2, y:770, pivotX:0.5, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfBold>23501 Dixie Highway, Kentucky"..
+"<type:texture, width:130-6, height:90-6, x:12+3, y:670+3,  texture:getTexture("media/textures/printMedia/FlyerPics/PoshCar3.png")>"..
+"<type:texture, width:130-6, height:90-6, x:12+165+3, y:670+3, texture:getTexture("media/textures/printMedia/FlyerPics/PoshCar1.png")>"..
+"<type:texture, width:130-6, height:90-6, x:10+330+3, y:670+3, texture:getTexture("media/textures/printMedia/FlyerPics/PoshCar2.png")>",
+
+Print_Media_FlyerTemplate2_info = "<type:parent, width:480, height:715>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/WestMapleCountryClub.png"), width:480, height:124, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:101, r:225/255.0, g:225/255.0, b:225/255.0, pivotX:0.5, pivotY:0.5, scaleX:1, scaleY:1, font:UIFont.SdfOldBold>NOW"..
+"<type:text, x:20, y:150, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum"..
+"<type:text, x:20, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum"..
+"<type:text, x:20, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum"..
+"<type:text, x:170, y:150, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>West Maple Country Club is a little slice of sporting^heaven - and the 1993 enrollment^is now open!"..
+"<type:text, x:170, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua."..
+"<type:text, x:170, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua."..
+"<type:texture, x:10, y:330, width:460, height:45, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:332, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:10, y:380, width:460, height:255, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:382, width:456, height:251, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:358, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:1, scaleY:1, font:UIFont.SdfOldBold>STARTING NOW!"..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Adress, KENTUCKY"..
+"<type:text, x:10, y:680, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold>Tel:"..
+"<type:text, x:40, y:682, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldBold>+"..
+"<type:text, x:45, y:680, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold> 943"..
+"<type:text, x:95, y:670, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.9, scaleY:0.9, textTracking:-3, font:UIFont.SdfOldBold>XX XX XX XX / YY YY YY YY",
+
+Print_Media_FlyerTemplate3_info = "<type:parent, width:551, height:800>"..
+"<type:texture, width:550, height:800>"..
+"<type:texture, width:550, height:87, x:0, y:0, texture:getTexture("media/textures/printMedia/logos/homewardTop.png")>"..
+"<type:texture, width:550, height:81, x:0, y:800-81, texture:getTexture("media/textures/printMedia/logos/homewardDown.png")>"..
+"<type:texture, width:529, height:253, x:550/2, y:100, pivotX:0.5, texture:getTexture("media/textures/printMedia/homewardHouse.png")>"..
+"<type:texture, width:250, height:201, x:25, y:530, texture:getTexture("media/textures/printMedia/FlyerPics/homewardMap.png")>"..
+"<type:text, x:550/2, y:372, scaleX:0.64, scaleY:0.64, pivotX:0.5, r:0, g:0, b:0, outlineThick:0.1, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfOldItalic>LOCATION ADDRESS"..
+"<type:text, x:25, y:410, scaleX:0.64, scaleY:0.64, r:0, g:0, b:0, autoWidth:500/0.64, font:UIFont.SdfOldRegular>This stunning, turn-of-the-century style house must be seen to be believed. With two expansive floors and a large loft, all filled with natural light thanks to the many large windows, you'll find this a bright and comfortable home perfect for dinner parties and entertaining."..
+"<type:text, x:280, y:550, scaleX:0.55, scaleY:0.55, r:0, g:0, b:0, font:UIFont.SdfOldRegular>Bedrooms: 4^Bathrooms: 2^Area: 4165 sq. ft.^^Price: $200,000"..
+"<type:text, x:280, y:700, scaleX:0.4, scaleY:0.4, r:0, g:0, b:0, font:UIFont.SdfOldItalic>Listing No.935"..
+"<type:text, x:550/2, y:755, scaleX:1, scaleY:1, pivotX:0.5, r:1, g:1, b:1, font:UIFont.SdfOldBold>Call us on 555-9029",
+
+Print_Media_FlyerTemplate4_info = "<type:parent, width:960, height:670>"..
+"<type:texture, width:960, height:670, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:220, y:30, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>LUGAR DE CELEBRACION"..
+"<type:text, x:5, y:75, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfCaveat>OFICINA COMARCAL AGRARIA XXXXX^XXXXXXXXX, del 27 al 29 de octubre 1994^^Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam,^^quis nostrud exercitation ullamco laboris nisi ut^aliquip ex ea commodo consequat. Duis aute irure^dolor in reprehenderit in voluptate velit esse."..
+"<type:text, x:220, y:325, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>LUGAR DE CELEBRACION"..
+"<type:text, x:30, y:370, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfCaveat>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam,^^quis nostrud exercitation ullamco laboris nisi ut^aliquip ex ea commodo consequat. Duis aute irure^dolor in reprehenderit in voluptate velit esse."..
+"<type:text, x:5, y:550, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, outlineThick:0.08, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfCaveat>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam."..
+"<type:text, x:610, y:160, r:0, g:0, b:0, a:0.9, scaleX:0.7, scaleY:0.7, textLeading:-6, outlineThick:0.08, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRegular>CURSO SOBRE EL maejo y^      cuidaos del caballo"..
+"<type:text, x:580, y:610, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-6, font:UIFont.SdfRegular>    OFICINA COMARCAL AGRARIA XXXXX^XXXXXXXXX, del 27 al 29 de octubre 1994"..
+"<type:text, x:800, y:30, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>LUGAR DE CELEBRACION"..
+"<type:text, x:800, y:60, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.4, scaleY:0.4, textTracking:-2, font:UIFont.SdfBoldItalic>       CONEJERIA DEL AGUA DE LA PESCA Y DE LOS^SPEEDYGONZALES DE LOS CARIOCAS DE LA SIERRA^                                         DEL MUNDO"..
+"<type:texture, texture:getTexture("media/textures/printMedia/spiffos.png"), x:490, y:3, width:150, height:110>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/clownTEST.png"), x:610, y:236, width:260, height:367>",
+
+Print_Media_FlyerTemplate5_info = "<type:parent, width:370, height:670>"..
+"<type:texture, width:370, height:670, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:220, y:30, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>LUGAR DE CELEBRACION"..
+"<type:text, x:5, y:75, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfCaveat>OFICINA COMARCAL AGRARIA XXXXX^XXXXXXXXX, del 27 al 29 de octubre 1994^^Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam,^^quis nostrud exercitation ullamco laboris nisi ut^aliquip ex ea commodo consequat. Duis aute irure^dolor in reprehenderit in voluptate velit esse."..
+"<type:text, x:220, y:325, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>LUGAR DE CELEBRACION"..
+"<type:text, x:30, y:370, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfCaveat>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam,^^quis nostrud exercitation ullamco laboris nisi ut^aliquip ex ea commodo consequat. Duis aute irure^dolor in reprehenderit in voluptate velit esse."..
+"<type:text, x:5, y:550, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, outlineThick:0.08, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfCaveat>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam.",
+
+Print_Media_FlyerTemplate6_info = "<type:parent, width:960/2, height:670>"..
+"<type:texture, width:960/2, height:670, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:300, y:30, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>LUGAR DE CELEBRACION"..
+"<type:text, x:300, y:80, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.4, scaleY:0.4, textTracking:-2, font:UIFont.SdfBoldItalic>       CONEJERIA DEL AGUA DE LA PESCA Y DE LOS^SPEEDYGONZALES DE LOS CARIOCAS DE LA SIERRA^                                         DEL MUNDO"..
+"<type:text, x:960/4, y:160, r:0, g:0, b:0, a:0.9, scaleX:0.7, scaleY:0.7, pivotX:0.5, outlineThick:0.08, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRegular>CURSO SOBRE EL maejo y^      cuidaos del caballo"..
+"<type:text, x:960/4, y:610, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, pivotX:0.5,pivotY:0, font:UIFont.SdfRegular>OFICINA COMARCAL AGRARIA XXXXX XXXXXXXXX^                   del 27 al 29 de octubre 1994"..
+"<type:texture, texture:getTexture("media/textures/printMedia/spiffos.png"), x:10, y:20, width:150, height:110>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/clownTEST.png"), x:960/4, y:236, width:260, height:367, pivotX:0.5>",
+
+Print_Media_FlyerTemplate7_info = "<type:parent, width:480, height:715>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/FlyerPics/WestMapleCountryClub.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:130, width:130, height:185, r:0, g:0, b:0>"..
+"<type:texture, x:22, y:132, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:170, y:140, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>West Maple Country Club is a little slice of sporting^heaven. Our world-class 18-hole golf course^attracts professionals from all across the globe,^but golf is just one of our attractions."..
+"<type:text, x:170, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Swim in our pool, have a game or two of tennis,^squash or pool, go for a gallop on one of our horses,^or refuel in our cozy lounge, bar, or restaurant."..
+"<type:text, x:170, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>With membership fees from just $3999 and a 5%^discount for new members, there's never been a^better time to join with fine company at West Maple."..
+"<type:texture, x:10, y:330, width:460, height:45, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:332, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:10, y:380, width:460, height:255, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:382, width:456, height:251, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:358, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:0.75, scaleY:0.75, font:UIFont.SdfOldBold>WE'RE WAITING, JUST FOR YOU."..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Adress, KENTUCKY"..
+"<type:text, x:10, y:680, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold>Tel:"..
+"<type:text, x:40, y:682, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldBold>+"..
+"<type:text, x:45, y:680, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold> 943"..
+"<type:text, x:95, y:670, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.9, scaleY:0.9, textTracking:-3, font:UIFont.SdfOldBold>XX XX XX XX / YY YY YY YY",
+
+Print_Media_FlyerTemplate8_info = "<type:parent, width:480, height:650>"..
+"<type:texture, width:480, height:650, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/logos/PonyRoamO.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:130, width:130, height:185, r:0, g:0, b:0>"..
+"<type:texture, x:22, y:132, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:170, y:130, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:450, font:UIFont.SdfOldBold>West Maple Country Club is a little slice of sporting heaven. Our world-class 18-hole golf course attracts professionals from all across the globe, but golf is just one of our attractions."..
+"<type:text, x:20, y:350, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:450, font:UIFont.SdfOldBold>West Maple Country Club is a little slice of sporting heaven. Our world-class 18-hole golf course attracts professionals from all across the globe, but golf is just one of our attractions."..
+"<type:texture, x:300, y:350, width:130, height:185, r:0, g:0, b:0>"..
+"<type:texture, x:302, y:352, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:10, y:560, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Adress, KENTUCKY"..
+"<type:text, x:10, y:600, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold>Tel:"..
+"<type:text, x:40, y:602, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldBold>+"..
+"<type:text, x:45, y:600, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold> 943"..
+"<type:text, x:95, y:590, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.9, scaleY:0.9, textTracking:-3, font:UIFont.SdfOldBold>XX XX XX XX / YY YY YY YY",
+
+Print_Media_FlyerTemplate9_info = "<type:parent, width:480, height:715>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/logos/ChapelmountDowns.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:10, y:130, width:460, height:255, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:132, width:456, height:251, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:20, y:395, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold>West Maple Country Club is a little slice of sporting heaven. Our world-class 18-hole golf course attracts professionals from all across the globe, but golf is just one of our attractions."..
+"<type:texture, x:10, y:580, width:460, height:45, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:582, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:605, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:0.75, scaleY:0.75, font:UIFont.SdfOldBold>WE'RE WAITING, JUST FOR YOU."..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Adress, KENTUCKY",
+
+Print_Media_FlyerTemplate10_info = "<type:parent, width:480, height:690>"..
+"<type:texture, width:480, height:560, r:244/255.0, g:201/255.0, b:71/255.0>"..
+"<type:texture, x:18, y:10, texture:getTexture("media/textures/printMedia/logos/TacoDelPancho.png"), width:450, height:75>"..
+"<type:texture, x:20, y:130, width:130, height:185, r:0, g:0, b:0>"..
+"<type:texture, x:22, y:132, width:126, height:181, texture:getTexture("media/textures/printMedia/FlyerPics/pancho.png")>"..
+"<type:text, x:170, y:130, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, autoWidth:375, font:UIFont.SdfOldBold>Hey, my name is Pancho! I am a little puppy, and I am here to tell you one thing."..
+"<type:text, x:170, y:230, r:190/255, g:71/255, b:51/255, pivotX:0, pivotY:0, scaleX:1, scaleY:1, font:UIFont.SdfOldBold>TACOS!^BURRITOS!^ENCHILADAS!"..
+"<type:text, x:20, y:360, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, autoWidth:300, font:UIFont.SdfOldBold>We have all that good stuff at the Taco del Pancho! Take it from me! I know good food! Arriba!"..
+"<type:texture, x:300, y:350, width:130, height:185, r:0, g:0, b:0>"..
+"<type:texture, x:302, y:352, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:0, y:560, width:480, height:150, r:0.5, g:0.1, b:0>"..
+"<type:text, x:15, y:570, r:238/255, g:232/255, b:177/255, pivotX:0, pivotY:0, textTracking:-3, autoWidth:450,font:UIFont.SdfOldBold>Bring this flier to our outlet at Crossroads Mall food court for 20% off any taco, and FREE guacamole!*"..
+"<type:text, x:350, y:670, r:238/255, g:232/255, b:177/255, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, textTracking:-3, autoWidth:450,font:UIFont.SdfOldBold>*offer valid until 7/10/93",
+
+Print_Media_FlyerTemplate11_info = "<type:parent, width:450, height:750>"..
+"<type:texture, width:450, height:750, r:79/255.0, g:129/255.0, b:241/255.0>"..
+"<type:texture, x:70, y:10, texture:getTexture("media/textures/printMedia/logos/Fossoil.png"), pivotX:-0.6, width:120, height:60>"..
+"<type:text, x:15, y:80, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold>With low gas prices and less lead than ever before, there's never been a better time to refuel with Fossoil. From affordable regular to top-notch premium, your engine - and your wallet - will thank you. And if you're broken down, hungry, or just stocking up, you'll find everything you need at Fossoil.^^Latest Fuel Prices (5/20/93)^- Regular $1.06^- Plus $1.15^- Supreme $1.24^- Diesel $1.05 ^^Here are just some of our station locations in your area!"..
+"<type:texture, x:450/4, y:450, pivotX:0.5, width:100, height:100, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:450/4, y:555, pivotX:0.5, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold>location1"..
+"<type:texture, x:450*0.75, y:450, pivotX:0.5, width:100, height:100, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:450*0.75, y:555, pivotX:0.5, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold>location1"..
+"<type:texture, x:450/4, y:600, pivotX:0.5, width:100, height:100, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:450/4, y:705, pivotX:0.5, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold>location1"..
+"<type:texture, x:450*0.75, y:600, pivotX:0.5, width:100, height:100, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:450*0.75, y:705, pivotX:0.5, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold>location1",
+
+Print_Media_FlyerTemplate12_info = "<type:parent, width:500, height:700>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/logos/Fossoil.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:10, y:400, width:460, height:205, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:402, width:456, height:201, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:20, y:130, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold>Come to the Sunstar Motel for fully furnished, comfortable motel rooms with air conditioning and color TV. Food available separately in our diner.^^RATES^Standard Double/Twin singles: $55^Double and single twin: $65^Bedroom w/double bed and living room: $70^^10% discount for veterans and seniors. Ask about our special discreet rooms for daytime meetings."..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Adress, KENTUCKY",
+
+Print_Media_FlyerTemplate13_info = "<type:parent, width:960/2, height:670>"..
+"<type:texture, width:960/2, height:670, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:0, y:30, r:0, g:0, b:0, a:0.9, pivotX:-0.25, pivotY:0, scaleX:1, scaleY:1, textTracking:-2, font:UIFont.SdfRegular>LUMBERJACKS WANTED"..
+"<type:text, x:20, y:80, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textTracking:-2, autoWidth:430/0.6, font:UIFont.SdfRegular>Reliable men needed for heavy work at our yard west of Muldraugh. Full training provided. Work includes usage of industrial equipment, as well as axes and saws for smaller scale splitting and custom woodworking. Ability to drive a truck is a bonus."..
+"<type:texture, texture:getTexture("media/textures/printMedia/clownTEST.png"), x:960/4, y:236, width:260, height:300, pivotX:0.5>"..
+"<type:text, x:960/4, y:620, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, pivotX:0.5,pivotY:0, font:UIFont.SdfBoldItalic>Making trees useful since 1914."..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/spiffos.png"), x:170, y:550, width:150, height:60>",
+
+Print_Media_FlyerTemplate14_info = "<type:parent, width:480, height:715>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:240, y:15, r:0, g:0, b:0, pivotX:0.5, pivotY:0, scaleX:1.5, scaleY:1.5, autoWidth:440/0.6, font:UIFont.SdfOldBold>BIG TITLE"..
+"<type:texture, x:240, y:200, pivotX:0.5, width:200, height:200, r:0, g:0, b:0>"..
+"<type:text, x:20, y:85, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold>West Maple Country Club is a little slice of sporting heaven. Our world-class 18-hole golf course attracts professionals from all across the globe, but golf is just one of our attractions."..
+"<type:texture, x:240, y:202, pivotX:0.5, width:196, height:196, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:20, y:420, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold>West Maple Country Club is a little slice of sporting heaven. Our world-class 18-hole golf course attracts professionals from all across the globe, but golf is just one of our attractions."..
+"<type:texture, x:10, y:580, width:460, height:45, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:582, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:605, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:0.75, scaleY:0.75, font:UIFont.SdfOldBold>WE'RE WAITING, JUST FOR YOU."..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Adress, KENTUCKY",
+
+maptext = "<type:map, x:60, y:100, width:100, height:150, mapID:"RustyRifle">",
+wrinkles = "<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>",
+"<type:texture, width:900, height:789, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, x:789/2, y:900/2, pivotX:0.5, pivotY:0.5, angle:90, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>",
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, x:789/2, y:900/2, pivotX:0.5, pivotY:0.5, angle:180, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>",
+"<type:texture, width:900, height:789, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, x:789/2, y:900/2, pivotX:0.5, pivotY:0.5, angle:270, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>",
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, x:789/2, y:900/2, pivotX:0.5, pivotY:0.5, scaleX:-1, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>",
+"<type:texture, width:900, height:789, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, x:789/2, y:900/2, pivotX:0.5, pivotY:0.5, angle:90, scaleX:-1, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>"",
+}

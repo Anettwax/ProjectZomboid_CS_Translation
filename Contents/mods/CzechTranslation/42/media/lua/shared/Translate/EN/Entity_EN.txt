@@ -1,0 +1,24 @@
+Entity_EN = {
+    EC_Entity_DisplayName_Default = "Generic Entity Name",
+    EC_Entity_BuildDescription_Default = "Generic Entity Build Description",
+
+    -- Energy
+    EC_Energy = "Energy",
+    EC_Energies = "Energies",
+    EC_Energy_Not_Set = "No energy set",
+    -- Energy types
+    EC_Energy_Electric = "Electric",
+    EC_Energy_Mechanical = "Mechanical",
+    EC_Energy_Thermal = "Thermal",
+    EC_Energy_Steam = "Steam",
+
+    -- Common
+    EC_Locked = "Locked",
+    EC_Stored = "Stored",
+    EC_Weight = "Encumbrance",
+    EC_Progress = "Progress",
+
+    -- Component
+    EC_Workstation = "Workstation",
+    EC_Recipes = "Recipes",
+}

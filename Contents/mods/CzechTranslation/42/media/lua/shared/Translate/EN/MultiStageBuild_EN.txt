@@ -1,0 +1,28 @@
+MultiStageBuild_EN = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Create Rickety Wooden Wall",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Upgrade to Wooden Wall",
+    MultiStageBuild_CreateWoodenWall_2 = "Create Wooden Wall",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Upgrade to Strong Wooden Wall",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Upgrade to Strong Wooden Wall",
+    MultiStageBuild_CreateWoodenWall_3 = "Create Strong Wooden Wall",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Create Rickety Wooden Window",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Upgrade to Wooden Window",
+    MultiStageBuild_CreateWoodenWindow_2 = "Create Wooden Window",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Upgrade to Strong Wooden Window",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Upgrade to Strong Wooden Window",
+    MultiStageBuild_CreateWoodenWindow_3 = "Create Strong Wooden Window",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Create Metal Wall",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Upgrade to Strong Metal Wall",
+    MultiStageBuild_CreateMetalWall_2 = "Create Strong Metal Wall",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Create Metal Window",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Upgrade to Strong Metal Window",
+    MultiStageBuild_CreateMetalWindow_2 = "Create Strong Metal Window",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Upgrade to Stable Wooden Door Frame",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Upgrade to Strong Wooden Door Frame",
+}
+

@@ -1,0 +1,458 @@
+Stash_EN = {
+    Stash_AnnotedMap = "Annotated Map",
+
+    Stash_LVMap1_Text1 = "crazy gun guy rip",
+    Stash_LVMap1_Text2 = "gun guy's house",
+
+    Stash_LVMap2_Text1 = "gift from mom",
+    Stash_LVMap2_Text2 = "don't forget to visit",
+    Stash_LVMap2_Text3 = "grandma's grave if you can",
+    Stash_LVMap2_Text4 = "say a prayer for us all",
+
+    Stash_LVMap3_Text1 = "school",
+    Stash_LVMap3_Text2 = "creepy janitor's shack",
+    Stash_LVMap3_Text3 = "should have tools!",
+
+    Stash_LVMap4_Text1 = "don't bother",
+    Stash_LVMap4_Text2 = "need sledge",
+    Stash_LVMap4_Text4 = "gasstation",
+
+    Stash_LVMap5_Text1 = "The Carlins moved here Debbie",
+    Stash_LVMap5_Text2 = "Go to them if you need help!",
+    Stash_LVMap5_Text3 = "we saw those things",
+    Stash_LVMap5_Text4 = "all around the gym",
+    Stash_LVMap5_Text5 = "don't go anywhere at night!",
+
+    Stash_LVMap6_Text1 = "HOME SWEET HOME",
+
+    Stash_LVMap7_Text1 = "Thanks for putting me down",
+    Stash_LVMap7_Text2 = "This was my house",
+    Stash_LVMap7_Text3 = "I had everything I needed",
+    Stash_LVMap7_Text4 = "I thought",
+
+    Stash_LVMap8_Text1 = "third door down",
+    Stash_LVMap8_Text2 = "hurry with those pills",
+    Stash_LVMap8_Text3 = "THEY'RE ALL OVER HERE DON'T GO",
+
+    Stash_LVMap9_Text1 = "guns and food in far stable",
+    Stash_LVMap9_Text2 = "don't get lost in trees",
+    Stash_LVMap9_Text3 = "those things are in there",
+
+    Stash_LVMap10_Text1 = "old fuck with house full of food",
+    Stash_LVMap10_Text2 = "and no guns",
+    Stash_LVMap10_Text3 = "just don't bring a fucking",
+    Stash_LVMap10_Text4 = "horde with you this time!",
+
+    Stash_LVMap11_Text1 = "   unlooted",
+    Stash_LVMap11_Text2 = "full of infected",
+    Stash_LVMap11_Text3 = "storage units",
+    Stash_LVMap11_Text4 = "LV General",
+
+    Stash_LVMap12_Text1 = "pizza lady",
+    Stash_LVMap12_Text2 = "hot dude selling burgers",
+    Stash_LVMap12_Text3 = "our tent",
+    Stash_LVMap12_Text4 = "sinsilla's gonna be",
+    Stash_LVMap12_Text5 = "fuckin awesome!!!",
+
+    Stash_LVMap13_Text1 = "good secure houses",
+    Stash_LVMap13_Text2 = "but be careful clearing backyards",
+    Stash_LVMap13_Text3 = "",
+
+    Stash_LVMap14_Text1 = "barricade with the planks I brought you",
+    Stash_LVMap14_Text2 = "otherwise those things will get in",
+    Stash_LVMap14_Text3 = "don't forget!",
+    Stash_LVMap14_Text4 = "don't let anyone in while I'm away!",
+    Stash_LVMap14_Text5 = "I'll be a half hour (it's 2.30)",
+    Stash_LVMap14_Text6 = "any longer, call the Edwards on the radio",
+    Stash_LVMap14_Text7 = "xxxxx",
+
+    Stash_LVMap15_Text1 = "Whoever finds this, I was Natalie Sigmundsson",
+    Stash_LVMap15_Text2 = "lecturer in Art History at LSU",
+    Stash_LVMap15_Text3 = "I'm already dead but I have a final request",
+    Stash_LVMap15_Text4 = "This is only the end of the world is we allow it to be.",
+    Stash_LVMap15_Text5 = "We must secure the treasures in the art gallery or",
+    Stash_LVMap15_Text6 = "we will be truly lost.",
+    Stash_LVMap15_Text7 = "",
+    Stash_LVMap15_Text8 = "Let no-one say that humanity is lost forever.",
+    Stash_LVMap15_Text9 = "",
+
+    Stash_LVMap16_Text1 = "this whole street is dangerous",
+    Stash_LVMap16_Text2 = "They got your son here",
+    Stash_LVMap16_Text3 = "come to us, it's safe now",
+    Stash_LVMap16_Text4 = "we're going to head south",
+    Stash_LVMap16_Text5 = "please come with us",
+
+    Stash_MulMap1_Text1 = "Floorboards.",
+    Stash_MulMap1_Text2 = "",
+    Stash_MulMap1_Text3 = "big crowd",
+	
+    Stash_MulMap2_Text1 = "left it here xx",
+    Stash_MulMap2_Text2 = "",
+    Stash_MulMap2_Text3 = "",
+	
+    Stash_MulMap3_Text1 = "Shotgun and ammo - hidden",
+    Stash_MulMap3_Text2 = "",
+    Stash_MulMap3_Text3 = "lots here",
+	
+    Stash_MulMap4_Text1 = "easier way out",
+    Stash_MulMap4_Text2 = "medical",
+    Stash_MulMap4_Text3 = "so many of them",
+	
+    Stash_MulMap6_Text1 = "Bob, I want this place fortified like HELL.",
+    Stash_MulMap6_Text2 = "antibiotics, bandages",
+    Stash_MulMap6_Text21 = "leg's not getting unfucked",
+    Stash_MulMap6_Text3 = "O Saw a herd of them headed this way - Avoid!",
+	
+    Stash_MulMap7_Text1 = "Plan B",
+    Stash_MulMap7_Text2 = "Store – FULL",
+    Stash_MulMap7_Text3 = "fucked up",
+	
+    Stash_MulMap8_Text1 = "Bury me - God bless",
+    Stash_MulMap8_Text2 = "",
+    Stash_MulMap8_Text3 = "big crowd, hasn't moved in days",
+	
+    Stash_MulMap10_Text1 = "death house",
+    Stash_MulMap10_Text2 = "",
+    Stash_MulMap10_Text3 = "seemed clear here",
+	
+    Stash_MulMap11_Text1 = "Gun in Spiffo's.",
+    Stash_MulMap11_Text2 = "",
+    Stash_MulMap11_Text3 = "trouble",
+	
+    Stash_MulMap12_Text1 = "shotgun - food in kitchen?",
+    Stash_MulMap12_Text2 = "",
+    Stash_MulMap12_Text3 = "big crowd",
+	
+    Stash_MulMap13_Text1 = "got halfway but had to leave it all - too heavy",
+    Stash_MulMap13_Text2 = "plenty of gear still in hardware store",
+    Stash_MulMap13_Text3 = "gunshots",
+
+	Stash_MulMap14_Text1 = "safest house - barricade",
+	Stash_MulMap14_Text2 = "all around here",
+	Stash_MulMap14_Text3 = "don't shoot - sound attracts them",
+
+	Stash_MulMap15_Text1 = "old doctor",
+	Stash_MulMap15_Text2 = "careful along here",
+	Stash_MulMap15_Text21 = "it's where J got bit",
+
+	Stash_MulMap16_Text1 = "security at bank got guns",
+	Stash_MulMap16_Text2 = "I miss TV and cold beer, fuck this",
+
+	Stash_MulMap17_Text1 = "zippees full of stuff",
+	Stash_MulMap17_Text2 = "check bakery next door too",
+	Stash_MulMap17_Text3 = "be careful mom, dad's still here",
+
+	Stash_MulMap18_Text1 = "Crazy Willy's trailer",
+	Stash_MulMap18_Text11 = "heard he turned",
+	Stash_MulMap18_Text12 = "hope his guns still there",
+	
+	Stash_MulMap19_Text1 = "everything we need!"
+
+    Stash_WpMap1_Text1 = "Sure this was where he lived",
+    Stash_WpMap1_Text2 = "don't fire it here for God's sake",
+	
+    Stash_WpMap2_Text1 = "think she lived here",
+    Stash_WpMap2_Text2 = "medical center",
+    Stash_WpMap2_Text3 = "found her, no gun",
+	
+    Stash_WpMap4_Text1 = "Be brave. I love you.",
+    Stash_WpMap4_Text3 = "MEGAN IS ONE OF THEM",
+    Stash_WpMap4_Text31 = "DON'T GO",
+	
+    Stash_WpMap5_Text1 = "tools",
+    Stash_WpMap5_Text11 = "I LOVE YOU",
+    Stash_WpMap5_Text2 = "",
+    Stash_WpMap5_Text3 = "trouble",
+	
+    Stash_WpMap6_Text1 = "I wont need all this now",
+    Stash_WpMap6_Text2 = "",
+    Stash_WpMap6_Text3 = "hell warmed up",
+	
+    Stash_WpMap8_Text1 = "Jolene didn't get sick. She can help.",
+    Stash_WpMap8_Text2 = "",
+    Stash_WpMap8_Text3 = "saw a guy die",
+	
+    Stash_WpMap9_Text1 = "infected hell hole",
+    Stash_WpMap9_Text2 = "",
+    Stash_WpMap9_Text3 = "dad",
+	
+    Stash_WpMap10_Text1 = "all kinds of fucked up",
+    Stash_WpMap10_Text2 = "",
+    Stash_WpMap10_Text3 = "more trouble",
+	
+    Stash_WpMap11_Text1 = "Spiffo's Manager kept shotgun",
+    Stash_WpMap11_Text11 = "motherfucker knew what was coming",
+    Stash_WpMap11_Text2 = "Untouched hardware place",
+    Stash_WpMap11_Text3 = "gonna avoid home - don't look for me here",
+	
+    Stash_WpMap12_Text1 = "everyone in office got fever",
+    Stash_WpMap12_Text11 = "I boarded them in",
+    Stash_WpMap12_Text2 = "gun store",
+    Stash_WpMap12_Text3 = "Black Friday kinda crowds",
+
+    Stash_WpMap13_Text1 = "shotgun kills: 12",
+    Stash_WpMap13_Text2 = "axe kills: 20",
+    Stash_WpMap13_Text3 = "car kills: 11",
+
+    Stash_WpMap14_Text1 = "Meet me here Tonya! Got enough food.",
+    Stash_WpMap14_Text11 = "Now we have to wait for Colin's boat",
+
+    Stash_WpMap15_Text1 = "They'll never find us here, trust me",
+    Stash_WpMap15_Text11 = "they're dumber than dog shit",
+    Stash_WpMap15_Text2 = "Good hunting here",
+
+    Stash_WpMap16_Text1 = "Likely attacks",
+    Stash_WpMap16_Text2 = "Safest egress",
+    Stash_WpMap16_Text21 = "fence, then south to forest",
+    Stash_WpMap16_Text3 = "chances of survival:",
+    Stash_WpMap16_Text31 = "one month: 58%",
+    Stash_WpMap16_Text32 = "through winter: 22%",
+    Stash_WpMap16_Text4 = "Need more food and working car",
+
+    Stash_MarchRidgeMap1_Text1 = "Gun here",
+    Stash_MarchRidgeMap1_Text2 = "",
+    Stash_MarchRidgeMap1_Text3 = "don't go",
+    Stash_MarchRidgeMap2_Text1 = "left you a pistol",
+    Stash_MarchRidgeMap2_Text2 = "store had supplies",
+    Stash_MarchRidgeMap2_Text3 = "do they migrate?",
+	
+    Stash_MarchRidgeMap3_Text1 = "hunter guy here",
+    Stash_MarchRidgeMap3_Text2 = "bakery",
+    Stash_MarchRidgeMap3_Text3 = "last place I saw her",
+	
+    Stash_MarchRidgeMap4_Text1 = "If you can make it before you turn. There's something here",
+    Stash_MarchRidgeMap4_Text11 = "to help. We'll be back together. Somehow.",
+    Stash_MarchRidgeMap4_Text2 = "You'll find me here. I love you.",
+    Stash_MarchRidgeMap4_Text3 = "Wish to God you'd never been stationed here.",
+	
+    Stash_MarchRidgeMap5_Text1 = "stuff you can use as weapons here",
+    Stash_MarchRidgeMap5_Text2 = "medical center",
+    Stash_MarchRidgeMap5_Text3 = "quiet here",
+	
+    Stash_MarchRidgeMap6_Text1 = "stuff we can use to secure building",
+    Stash_MarchRidgeMap6_Text2 = "hardware",
+    Stash_MarchRidgeMap6_Text3 = "hell emptied out here",
+	
+    Stash_MarchRidgeMap7_Text1 = "Where I think he hid out",
+    Stash_MarchRidgeMap7_Text2 = "",
+    Stash_MarchRidgeMap7_Text3 = "Saw him here. No bite, but had the fever.",
+
+    Stash_MarchRidgeMap8_Text1 = "Left my old tools here",
+    Stash_MarchRidgeMap8_Text2 = "Won't need em now",
+
+    Stash_MarchRidgeMap9_Text1 = "survivors welcome to join us - always",
+    Stash_MarchRidgeMap9_Text2 = "need food and guns and stuff",
+    Stash_MarchRidgeMap9_Text3 = "kill some on the way in for kudos!",
+
+    Stash_MarchRidgeMap10_Text1 = "Blessing for an angel",
+    Stash_MarchRidgeMap10_Text2 = "Use it on the demons",
+
+    Stash_RiversideStashMap1_Text1 = "we're here now",
+    Stash_RiversideStashMap1_Text11 = "see you soon",
+    Stash_RiversideStashMap1_Text2 = "careful along here!",
+
+    Stash_RiversideStashMap2_Text1 = "208. Waiting for you",
+    Stash_RiversideStashMap2_Text11 = "Our special place",
+    Stash_RiversideStashMap2_Text12 = "Don't leave me alone xxx",
+
+    Stash_RiversideStashMap3_Text1 = "video store",
+    Stash_RiversideStashMap3_Text2 = "booze",
+
+    Stash_RiversideStashMap4_Text1 = "daryl's sick, left him here",
+    Stash_RiversideStashMap4_Text11 = "get natalie, she'll know what to do",
+    Stash_RiversideStashMap4_Text2 = "saw them drag down two people here",
+
+    Stash_RiversideStashMap5_Text1 = "DO NOT GO HERE",
+    Stash_RiversideStashMap5_Text2 = "THE FUCKERS KILLED FRANK",
+
+    Stash_RiversideStashMap6_Text1 = "Eddie guns hidden here",
+    Stash_RiversideStashMap6_Text11 = "Fucker'd take over if he wasn't sick",
+    Stash_RiversideStashMap6_Text12 = "Hope that psycho Vicky didn't get them",
+
+    Stash_RiversideStashMap7_Text1 = "all turned",
+    Stash_RiversideStashMap7_Text2 = "Heading to Gigamart",
+    Stash_RiversideStashMap7_Text21 = "Don't fight with June when I'm gone",
+
+    Stash_RiversideStashMap8_Text1 = "left you some food here",
+    Stash_RiversideStashMap8_Text11 = "Eat before you leave",
+    Stash_RiversideStashMap8_Text2 = "",
+    Stash_RiversideStashMap8_Text3 = "where I saw them",
+
+    Stash_RiversideStashMap9_Text1 = "Ton's waiting for us here",
+    Stash_RiversideStashMap9_Text2 = "gas",
+    Stash_RiversideStashMap9_Text3 = "D's bit - need antibiotics",
+
+    Stash_RiversideStashMap10_Text1 = "bank",
+    Stash_RiversideStashMap10_Text2 = "dont forget a backup weapon",
+    Stash_RiversideStashMap10_Text21 = "your ax head looked loose",
+    Stash_RiversideStashMap10_Text3 = "heading west out of town soon",
+
+    Stash_RosewoodStashMap2_Text1 = "Stashed guns",
+    Stash_RosewoodStashMap2_Text2 = "here next",
+    Stash_RosewoodStashMap2_Text3 = "ends right here",
+	
+    Stash_RosewoodStashMap3_Text1 = "help us fortify while we wait it out.",
+    Stash_RosewoodStashMap3_Text11 = "Mom's old place. see you there x",
+    Stash_RosewoodStashMap3_Text2 = "school",
+    Stash_RosewoodStashMap3_Text3 = "dont go this way",
+
+    Stash_RosewoodStashMap4_Text1 = "Left bug-out stuff here",
+    Stash_RosewoodStashMap4_Text2 = "When they come (and they WILL!)",
+    Stash_RosewoodStashMap4_Text3 = "take what you can and head into forest",
+
+    Stash_RosewoodStashMap5_Text1 = "food here",
+    Stash_RosewoodStashMap5_Text2 = "Don't rush in!",
+    Stash_RosewoodStashMap5_Text3 = "Remember Mr Duncan",
+	
+	Stash_BBurgMap1_Text1 = "Piano teacher's house",
+	
+	Stash_BBurgMap2_Text1 = "community center",
+	
+	Stash_BBurgMap3_Text1 = "Arthur's guns?",
+	Stash_BBurgMap3_Text2 = "wrecked restaurant"
+	
+	Stash_BBurgMap4_Text1 = "mom's trailer",
+	Stash_BBurgMap4_Text2 = "remember: one bite = death",
+	
+	Stash_BBurgMap5_Text1 = "storage units",
+	Stash_BBurgMap5_Text2 = "bar",
+	
+	Stash_BBurgMap6_Text1 = "I had an affair with Derek",
+	Stash_BBurgMap6_Text2 = "I'm so sorry",
+	
+	Stash_BBurgMap7_Text1 = "fucks wouldn't let me in",
+	Stash_BBurgMap7_Text2 = "kill em all!",
+	
+	Stash_BBurgMap8_Text1 = "Olive, I've moved here, near Brandenburg",
+	Stash_BBurgMap8_Text2 = "Mom was sick. I didn't want her to turn",
+	Stash_BBurgMap8_Text3 = "Please come see me",
+	Stash_BBurgMap8_Text4 = "I'll explain everything",
+	
+	Stash_EkronStashMap1_Text1 = "old factory",
+	Stash_EkronStashMap1_Text2 = "tools?",
+	
+	Stash_EkronMap2_Text1 = "vegs",
+	
+	Stash_EkronMap3_Text1 = "the goods",
+	
+	Stash_EkronMap5_Text1 = "school",
+	Stash_EkronMap5_Text2 = "aid"
+	Stash_EkronMap5_Text3 = "it's too late, don't bother"
+	
+	Stash_EkronMap6_Text1 = "if your reading this",
+	Stash_EkronMap6_Text2 = "kill yuor self !!",
+	Stash_EkronMap6_Text3 = "drink bleach bitch!!",
+	
+	Stash_EkronMap7_Text1 = "ekron",
+	
+	Stash_EkronMap8_Text1 = "road to Ekron",
+	Stash_EkronMap8_Text2 = "forget them! Just get here",
+	
+	Stash_IrvingtonMap1_Text1 = "Cossette - 56.34 seconds",
+	Stash_IrvingtonMap1_Text2 = "Dart - 1 minute, 14.55 seconds",
+	
+	Stash_IrvingtonMap2_Text1 = "I know where you live",
+	Stash_IrvingtonMap2_Text2 = "You're going to pay for",
+	Stash_IrvingtonMap2_Text3 = "what you did to Ann",
+	
+	Stash_IrvingtonMap3_Text1 = "don't run! they'll chase you",
+	Stash_IrvingtonMap3_Text2 = "radio us if you need to",
+	Stash_IrvingtonMap3_Text3 = "school",
+	Stash_IrvingtonMap3_Text4 = "horde",
+	
+	Stash_IrvingtonMap4_Text1 = "How quaint and curious war is",
+	Stash_IrvingtonMap4_Text2 = "You shoot a fellow down",
+	Stash_IrvingtonMap4_Text3 = "you'd treat if met where any bar is",
+	Stash_IrvingtonMap4_Text4 = "or help to half a crown",
+	
+	Stash_IrvingtonMap5_Text1 = "should be food here",
+	Stash_IrvingtonMap5_Text2 = "unless teresa took it all",
+	
+	Stash_IrvingtonMap6_Text1 = "stuff might be here",
+	Stash_IrvingtonMap6_Text2 = "be careful though",
+	
+	Stash_IrvingtonMap8_Text1 = "restaurant",
+	Stash_IrvingtonMap8_Text2 = "laundry",
+	Stash_IrvingtonMap8_Text3 = "I can't be the only one left",
+
+	Stash_IrvingtonMap9_Text1 = "we can fortify here",
+	Stash_IrvingtonMap9_Text2 = "everything will be fine!",
+	
+	Stash_IrvingtonMap10_Text1 = "IRVINGTON",
+	Stash_IrvingtonMap10_Text2 = "WE'LL BE HERE",
+	
+	Stash_WorldMap1_Text1 = "Cara will help",
+	Stash_WorldMap1_Text2 = "drive slow",
+
+	Stash_WorldMap2_Text1 = "safe place",
+	Stash_WorldMap2_Text11 = "barricade first!",
+	Stash_WorldMap2_Text12 = "hid guns inside",
+
+	Stash_WorldMap3_Text1 = "gas here",
+	Stash_WorldMap3_Text11 = "you'll need it",
+
+	Stash_WorldMap4_Text1 = "Where Yana said", 
+	Stash_WorldMap4_Text11 = "woman lives",
+	Stash_WorldMap4_Text12 = "Maybe she'll help us",
+
+	Stash_WorldMap5_Text1 = "paulie left stuff here",
+	Stash_WorldMap5_Text11 = "don't let lookouts spot you",
+	Stash_WorldMap5_Text12 = "and burn this map!!",
+
+	Stash_WorldMap6_Text1 = "should be stuff here",
+	Stash_WorldMap6_Text2 = "loot only - too big to secure",
+	Stash_WorldMap6_Text3 = "andy",
+
+	Stash_WorldMap7_Text1 = "fill up here",
+	Stash_WorldMap7_Text2 = "full of infected",
+	Stash_WorldMap7_Text21 = "where did they come from?",
+
+	Stash_WorldMap9_Text1 = "RAILYARD",
+	Stash_WorldMap9_Text2 = "crates all around, could be filled with stuff",
+	Stash_WorldMap9_Text3 = "offices, nothing",
+	Stash_WorldMap9_Text4 = "warehouses",
+	Stash_WorldMap9_Text5 = "muldraugh",
+	Stash_WorldMap9_Text6 = "none of the trains are drivable???",
+
+	Stash_WorldMap10_Text1 = "GAS",
+	Stash_WorldMap10_Text2 = "CLOTHES",
+	Stash_WorldMap10_Text3 = "SPIFFO'S",
+	Stash_WorldMap10_Text4 = "CARS",
+
+	Stash_WorldMap11_Text1 = "Dish 3 on Tower 2 - loses signal", 
+	Stash_WorldMap11_Text11 = "around 6 GHz - power problem",
+	Stash_WorldMap11_Text2 = "Get HQ to test with Lexington",
+
+	Stash_WorldMap12_Text1 = "HUGE campgrounds",
+	Stash_WorldMap12_Text11 = "has all we need (except Jane's pills)",
+	Stash_WorldMap12_Text2 = "We'll all be sitting around a fire",
+	Stash_WorldMap12_Text21 = "singing songs soon",
+
+	Stash_WorldMap13_Text1 = "hal I KNOW its hard",
+	Stash_WorldMap13_Text11 = "but you have to leave",
+	Stash_WorldMap13_Text12 = "paula - we're here",
+
+	Stash_WorldMap14_Text1 = "grandma",
+	Stash_WorldMap14_Text2 = "daddy",
+
+	Stash_WorldMap16_Text1 = "camp",
+	Stash_WorldMap16_Text2 = "checkpoint",
+	Stash_WorldMap16_Text3 = "barriers",
+
+	Stash_WorldMap17_Text1 = "patrol blindspot",
+	Stash_WorldMap17_Text2 = "V will turn off sensors at 23.15 ",
+	Stash_WorldMap17_Text21 = "Don't get distracted! Take pics, get out",
+
+	Stash_WorldMap19_Text1 = "stubborn fuck!"
+	Stash_WorldMap19_Text11 = "Take mrs cuddy's guns"
+	Stash_WorldMap19_Text12 = "you might live through the week"
+
+	Stash_WorldMap20_Text1 = "DICKHEAD"
+	Stash_WorldMap20_Text2 = "FUCKER"
+	Stash_WorldMap20_Text3 = "ASSHOLE"
+	
+	Stash_WorldMap22_Text1 = "great base!"
+	
+	Stash_WorldMap23_Text1 = "basement"
+	Stash_WorldMap23_Text2 = "thunder gas"
+}

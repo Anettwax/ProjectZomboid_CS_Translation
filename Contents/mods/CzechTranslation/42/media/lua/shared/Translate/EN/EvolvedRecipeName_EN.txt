@@ -1,0 +1,13 @@
+EvolvedRecipeName_EN = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Bolognese",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Carrots",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Chili",
+	EvolvedRecipeName_Base.CannedCornOpen = "Corn",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Corned Beef",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Peas",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Potato",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Sardine",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Tomato",
+	EvolvedRecipeName_Base.Teabag2 = "Tea",
+	-- note: please do not include "Canned" in the names of the evolved recipe names; it makes the names too long; you can also use the "EvolvedRecipeName =" field in a food item script, if the FoodType is not NoExplicit, to give it an Evlved Recipe name instead of using this system.
+}
