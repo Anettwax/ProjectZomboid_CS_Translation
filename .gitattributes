@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.txt text working-tree-encoding=cp1250 encoding=utf-8
+*.txt text encoding=utf-8
