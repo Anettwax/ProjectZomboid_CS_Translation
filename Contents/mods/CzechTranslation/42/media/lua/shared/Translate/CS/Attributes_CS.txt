@@ -1,0 +1,14 @@
+Attributes_EN = {
+	Attributes_TooltipOverride_Durability = "Durability Uses",
+	Attributes_Type_ContainsMetal = "Contains Metal",
+	Attributes_Type_ContainsWood = "Contains Wood",
+	Attributes_Type_CraftedBy = "Crafted By",
+	Attributes_Type_Durability = "Durability",
+	Attributes_Type_DurabilityOnUse = "Durability On Use",
+	Attributes_Type_MetalType = "Metal Type",
+	Attributes_Type_Uses = "Uses",
+	Attributes_Type_WoodType = "Wood Type",
+	Attributes_Type_WoodWetness = "Wood Wetness",
+    Attributes_Type_None = "None",
+    Attributes_Type_Quality = "Quality",
+}
