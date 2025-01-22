@@ -1,0 +1,16 @@
+Entity_CS = {
+    EC_Energies = "Energie",
+    EC_Energy = "Energie",
+    EC_Energy_Electric = "Elektrická",
+    EC_Energy_Mechanical = "Mechanická",
+    EC_Energy_Not_Set = "Energie není nastavena",
+    EC_Energy_Steam = "Pára",
+    EC_Energy_Thermal = "Tepelná",
+    EC_Entity_DisplayName_Default = "Generický název entity",
+    EC_Locked = "Zamčené",
+    EC_Progress = "Postup",
+    EC_Recipes = "Recepty",
+    EC_Stored = "Uloženo",
+    EC_Weight = "Zatížení",
+    EC_Workstation = "Pracovní stanice",
+}
