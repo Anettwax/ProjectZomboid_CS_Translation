@@ -553,7 +553,7 @@ Print_Media_NationalDispatch_July13_info = "<type:parent, width:880, height:825>
 "<type:text, x:685, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, font:UIFont.SdfOldBold> Hundreds^    Dead^  In Japan^Earthquake"..
 "<type:text, x:680, y:290, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Doris Hunt"..
 "<type:text, x:680, y:306, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
-"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>       HOKKAIDO, Japan - A strong earthquake struck off the coast of Japan at approximately 10:15 p.m. local time (9:15 a.m. Eastern) on Monday. The earthquake, estimated at 7.5 on the Richter scale, created a tsunami which inundated parts of the island of Hokkaido and struck coast of southeastern Russia.             Hundreds of people are feared dead, with fires and a landslide reported in the town of Okushiri on the small island of the same name near Hokkaido. The city was previously struck by a strong earthquake last January, which killed two people and injured more then a thousand. Monday's quake was far more devastating,     with     the"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>       HOKKAIDO, Japan - A strong earthquake struck off the coast of Japan at approximately 10:15 p.m. local time (9:15 a.m. Eastern) on Monday. The earthquake, estimated at 7.5 on the Richter scale, created a tsunami which inundated parts of the island of Hokkaido and struck coast of southeastern Russia.             Hundreds of people are feared dead, with fires and a landslide reported in the town of Okushiri on the small island of the same name near Hokkaido. The city was previously struck by a strong earthquake last January, which killed two people and injured more than a thousand. Monday's quake was far more devastating,     with     the"..
 "<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
 "<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Japan", A13)"..
 "<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Richard Carlson"..
@@ -973,11 +973,11 @@ Print_Media_McCoyLoggingCorp_info = "<type:parent, width:800, height:1131>"..
 Print_Media_NolansUsedCars_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>"..,
 
-Print_Media_WestMapleCountryClub_info = "<type:parent, width:800, height:564>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WMCC.png"), width:800, height:564>",
+Print_Media_WestMapleCountryClub_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WMCC.png"), width:1616, height:1131>",
 
-Print_Media_FashionaBelle_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fashionabelle.png"), width:800, height:1131>",
+Print_Media_FashionaBelle_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fashionabelle.png"), width:1616, height:1131>",
 
 Print_Media_TacodelPancho_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TacoDelPancho.png"), width:800, height:1131>",
@@ -1041,8 +1041,8 @@ Print_Media_FossoilField_info = "<type:parent, width:800, height:1131>"..
 Print_Media_SunstarMotel_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Sunstar.png"), width:800, height:1131>",
 
-Print_Media_HavishamSuites_info = "<type:parent, width:800, height:564>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Havisham.png"), width:800, height:564>",
+Print_Media_HavishamSuites_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Havisham.png"), width:1616, height:1131>",
 
 Print_Media_LouisvilleBruiser_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Bruiser.png"), width:800, height:1131>",
@@ -1056,11 +1056,11 @@ Print_Media_ScarletOakDistillery_info = "<type:parent, width:800, height:1131>".
 Print_Media_ReadyPrep_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ReadyPrep.png"), width:800, height:1131>",
 
-Print_Media_WellingtonHeightsGolfClub_info = "<type:parent, width:800, height:564>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WHGC.png"), width:800, height:564>",
+Print_Media_WellingtonHeightsGolfClub_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WHGC.png"), width:1616, height:1131>",
 
-Print_Media_LSU_info = "<type:parent, width:800, height:564>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LSU.png"), width:800, height:564>",
+Print_Media_LSU_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LSU.png"), width:1616, height:1131>",
 
 Print_Media_LectromaxManufacturingJobAd_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Lectromax.png"), width:800, height:1131>",
@@ -1155,8 +1155,8 @@ Print_Media_LouisvilleAnimalShelter_info = "<type:parent, width:800, height:1131
 Print_Media_KnoxPackKitchens_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
 
-Print_Media_SunsetPinesFuneralHome_info = "<type:parent, width:800, height:564>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SunsetPines.png"), width:800, height:564>",
+Print_Media_SunsetPinesFuneralHome_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SunsetPines.png"), width:1616, height:1131>",
 
 Print_Media_CardinalPlaza_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
@@ -1188,8 +1188,8 @@ Print_Media_PremiseswithApartmentsforLeaselistingno891_info = "<type:parent, wid
 Print_Media_HouseforSale907_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house907.png"), width:800, height:1131>",
 
-Print_Media_YourLocalShelterBrandenburg_info = "<type:parent, width:800, height:564>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ShelterBBurg.png"), width:800, height:564>",
+Print_Media_YourLocalShelterBrandenburg_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ShelterBBurg.png"), width:1616, height:1131>",
 
 Print_Media_BrandenburgAirfield_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
@@ -1236,8 +1236,8 @@ Print_Media_AmericanTire_info = "<type:parent, width:800, height:1131>"..
 
 Print_Media_FarmingAndRuralSupplyDoeValley_title = "Farming & Rural Supply (Doe Valley)",
 
-Print_Media_FarmingAndRuralSupplyDoeValley_info = "<type:parent, width:800, height:564>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FarmingDV.png"), width:800, height:564>",
+Print_Media_FarmingAndRuralSupplyDoeValley_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FarmingDV.png"), width:1616, height:1131>",
 
 Print_Media_LennysCarRepair_title = "Lenny's Car Repair",
 
@@ -1262,7 +1262,7 @@ Print_Media_NailsAndNuts_info = "<type:parent, width:800, height:1131>"..
 Print_Media_WPDIY_title = "West Point DIY",
 
 Print_Media_WPDIY_info = "<type:parent, width:850, height:600>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WPDIY.png"), width:800, height:564>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WPDIY.png"), width:1616, height:1131>",
 
 Print_Media_EPToolsLV_title = "E.P. Tools (Louisville)",
 

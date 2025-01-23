@@ -1029,12 +1029,17 @@ Sandbox_EN = {
     Sandbox_MuscleStrainFactor = "Muscle Strain Factor",
     Sandbox_MuscleStrainFactor_tooltip = "Functions as a multiplier when applying muscle strain from swinging weapons or carrying heavy loads.",
 
+    Sandbox_DiscomfortFactor = "Discomfort Factor",
+    Sandbox_DiscomfortFactor_tooltip = "Functions as a multiplier when applying discomfort from worn items.",
+
     Sandbox_WoundInfectionFactor = "Wound Infection Damage Factor",
     Sandbox_WoundInfectionFactor_tooltip = "If greater than zero damage can be taken from serious wound infections.",
 
     Sandbox_NoBlackClothes = "No Black Clothes",
     Sandbox_NoBlackClothes_tooltip = "If true clothing with randomized tints will not be so dark to be virtually black.",
-	
+
+	Sandbox_FirearmUseDamageChance = "Firearms Use Damage Chance",
+	Sandbox_FirearmUseDamageChance_tooltip = "Replaces Chance-To-Hit mechanics with Chance-To-Damage calculations.  This mode prioritizes player aiming.",
 	Sandbox_FirearmNoiseMultiplier = "Firearm Noise Multiplier",
 	Sandbox_FirearmNoiseMultiplier_tooltip = "A multiplier for the distance at which zombies can hear gunshots.",
     Sandbox_FirearmMoodleMultiplier = "Firearm Moodle Multiplier",
@@ -1067,4 +1072,7 @@ Sandbox_EN = {
     Sandbox_EasyClimbing_tooltip = "Disables the failure chances when climbing sheet ropes or over walls.",
     Sandbox_SpottedLogic = "New Stealth System",
     Sandbox_SpottedLogic_tooltip = "Activates the new advanced stealth mechanics, which allows you to hide from zombies behind cars, takes traits and weather into account, and much more.",
+
+    Sandbox_MaximumFireFuelHours = "MaximumFireFuelHours",
+    Sandbox_MaximumFireFuelHours_tooltip = "The maximum hours of fuel that can be placed in a campfire, wood stove etc.",
 }

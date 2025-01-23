@@ -412,7 +412,7 @@ UI_EN = {
     UI_trait_agoraphobic = "Agoraphobic",
     UI_trait_agoraphobicdesc = "Gets panicked when outdoors.",
     UI_trait_claustro = "Claustrophobic",
-    UI_trait_claustrodesc = "Gets panicked when indoors.",
+    UI_trait_claustrodesc = "Gets panicked when in small indoor rooms.",
     UI_trait_marksman = "Marksman",
     UI_trait_marksmandesc = "Improved gun accuracy and damage.<br>Quicker reload.",
     UI_trait_nightowl = "Night Owl",
@@ -850,6 +850,7 @@ UI_EN = {
     UI_trait_Pacifist = "Reluctant Fighter",
     UI_trait_PacifistDesc = "Decreased combat XP gains.",
     UI_trait_ThinSkinned = "Thin-skinned",
+    UI_trait_ThinSkinnedDesc = "Higher chance of being scratched or bitten by zombies.",
     UI_trait_Dexterous = "Dextrous",
     UI_trait_DexterousDesc = "Transfers inventory items quickly.<br>Faster rope climbing speed, and less chance of falling.<br>Faster weapon shouldering time.",
     UI_trait_AllThumbs = "All Thumbs",
@@ -1440,7 +1441,7 @@ UI_EN = {
     UI_mainscreen_userpanel = "USER PANEL",
     UI_PPT_Key = "Push-To-Talk Key: %1",
     UI_optionscreen_objHighlightColor = "Color of Highlighted Container",
-    UI_optionscreen_workstationHighlightColor = "Color of Highlighted Crafting Station",
+    -- UI_optionscreen_workstationHighlightColor = "Color of Highlighted Crafting Station",
     UI_optionscreen_do_container_outline = "Highlight Selected Container/Crafting Station",
     UI_optionscreen_goodHighlightColor = "'Good' Highlight Color",
     UI_optionscreen_badHighlightColor = "'Bad' Highlight Color",
@@ -1448,7 +1449,7 @@ UI_EN = {
     UI_optionscreen_ColorblindPatterns_tt = "Use patterned textures for buildings in the in-game map.",
     UI_optionscreen_enableDyslexicFont = "Enable Dyslexic Font",
     UI_optionscreen_enableDyslexicFont_tt = "When enabled, text will be written using the OpenDyslexia font if your language is supported."
-    UI_optionscreen_enableLightSensitivity = "Enable Light Sensitiviy Mode",
+    UI_optionscreen_enableLightSensitivity = "Enable Light Sensitivity Mode",
     UI_optionscreen_enableLightSensitivity_tt = "When enabled, lightning will not be generated during storms."
     UI_userpanel_tickets = "Tickets",
     UI_Scoreboard_TeleportToYou = "Teleport To You",
@@ -1652,11 +1653,11 @@ UI_EN = {
     UI_NewGame_Builder = "Builder",
     UI_NewGame_Builder_desc = "Construction, Exploration and Farming focus. A more relaxed experience.",
     UI_NewGame_Sandbox_desc2 = "Tailor design your own difficulty and play style.",
-    UI_News_Anim3 = "<H1> WELCOME TO THE BUILD 42 UNSTABLE BETA PROCESS! <LINE> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> "..
-                    "<CENTRE> <SIZE:large> This is a Work in Progress build of a huge update to multiple systems. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> There will be bugs and balance issues. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> Some features have been temporarily disabled. Others will be expanded as we move towards release. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> Please be understanding while we improve, fix and polish. <LINE><LINE> ",
+    UI_News_Anim3 = "<H1> WELCOME TO THE BUILD 42 UNSTABLE BETA PROCESS! <LINE> <TEXT> <IMAGECENTRE:media/ui/shotgunamz.png> <LINE> "..
+                    "<CENTRE> <SIZE:large> Some quick notes before you get going: <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Revamped firearms! <LINE> Range weapons have an experimental new method to calculate their hits, now based on the chance to damage. <LINE><LINE>" ..
+                    "<CENTRE> <SIZE:large> It is defaulted to be on, but the previous method remains available in Sandbox. Feedback is welcome on both for future balance. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Mac and AMD graphics card users: please let us know of any instability you  experience as you explore and survive. <LINE><LINE> ",
     UI_News_Anim = "<H1> WELCOME TO THE BUILD 41 PUBLIC BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
                     "<CENTRE> There will be bugs and balance issues. Optimization improvements are ongoing. <LINE><LINE> " ..
@@ -1671,6 +1672,7 @@ UI_EN = {
     UI_TermsOfService_ButtonQuit = "QUIT",
     UI_TermsOfService_MainMenu = "LEGAL",
     UI_ResetLua = "Reset Lua"
+    UI_ReportBug = "Report Bug",
     UI_optionscreen_binding_Hotbar 1 = "Hotbar 1",
     UI_optionscreen_binding_Hotbar 2 = "Hotbar 2",
     UI_optionscreen_binding_Hotbar 3 = "Hotbar 3",
