@@ -17,10 +17,10 @@ MultiStageBuild_CS = {
     MultiStageBuild_CreateMetalWall_1 = "Postavit plechovou stěnu",
     MultiStageBuild_UpgradeMetalWall_1To2 = "Vylepšit na pevnou plechovou stěnu",
     MultiStageBuild_CreateMetalWall_2 = "Postavit pevnou plechovou stěnu",
-    -- Plechové okno
-    MultiStageBuild_CreateMetalWindow_1 = "Postavit plechové okno",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "Vylepšit na pevné plechové okno",
-    MultiStageBuild_CreateMetalWindow_2 = "Postavit pevné plechové okno",
+    -- Plechová stěna s oknem
+    MultiStageBuild_CreateMetalWindow_1 = "Postavit plechovou stěnu s oknem",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Vylepšit na pevné plechovou stěnu s oknem",
+    MultiStageBuild_CreateMetalWindow_2 = "Postavit pevné plechovou stěnu s oknem",
     -- Dřevěný rám dveří
     MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Vylepšit na stabilní dřevěný rám dveří",
     MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Vylepšit na pevný dřevěný rám dveří",
