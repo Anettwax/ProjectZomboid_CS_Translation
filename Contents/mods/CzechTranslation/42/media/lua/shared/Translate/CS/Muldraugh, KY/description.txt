@@ -1,11 +1,3 @@
-Muldraugh
- <LINE> <LINE>
- Muldraugh je malé město v lokalitě, kterou místní znají jako 'Knox Country' -
-mrtvý bod státu Kentucky. Dříve to bylo výhradně armádní město, ale nyní vítá
- lidi ze všech oblastí života. Někteří dojíždějí za prací do větších měst
- v okolí a naopak některé vojenské rodiny a další obyvatelé žijí pod hranicí chudoby.
- <LINE> <LINE>
- Je to malá oblast, která je plná dobrých lidí a to nesmíme opomenout Spiffovo nejlepší
- kuře se sušenkami! Jistě, moc se tu toho neděje,
- ale to neznamená, že život v Muldraugh je nudný...
-
+<CENTRE> <SIZE:medium> MULDRAUGH - NOVÝ A VYLEPŠENÝ <LINE> <LINE>
+<LEFT> <SIZE:small> Muldraugh vyrostl jako armádní město, ale nyní v něm žijí lidé ze všech vrstev: lidé dojíždějící do větších měst, jako je West Point a Rosewood, vojenské rodiny i někteří lidé žijící pod hranicí chudoby. <LINE> <LINE>
+Navzdory své malé velikosti se Muldraugh může pochlubit velkým motelem, nedávno rozšířenou základní školou, obrovským dřevařským skladem a nejlepšími hamburgery Spiffo na této straně Kentucky! Jistě, moc se tu toho neděje, ale to neznamená, že život v Muldraugh je nudný...
