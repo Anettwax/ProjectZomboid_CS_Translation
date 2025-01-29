@@ -1261,7 +1261,7 @@ Print_Media_NailsAndNuts_info = "<type:parent, width:800, height:1131>"..
 
 Print_Media_WPDIY_title = "West Point DIY",
 
-Print_Media_WPDIY_info = "<type:parent, width:850, height:600>"..
+Print_Media_WPDIY_info = "<type:parent, width:1616, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WPDIY.png"), width:1616, height:1131>",
 
 Print_Media_EPToolsLV_title = "E.P. Tools (Louisville)",
@@ -1364,8 +1364,8 @@ Print_Media_A1Hay_info= "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
 
 Print_Media_Airport_title= "Louisville International Airport",
-Print_Media_Airport_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+Print_Media_Airport_info= "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LVA.png"), width:1616, height:1131>",
 
 Print_Media_AMZSteel_title= "AMZ Steel",
 Print_Media_AMZSteel_info= "<type:parent, width:800, height:1131>"..
@@ -1405,23 +1405,23 @@ Print_Media_DarkwallowGuestHouse_info= "<type:parent, width:800, height:1131>"..
 
 Print_Media_EkronCollege_title= "Ekron Community College",
 Print_Media_EkronCollege_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/EkronCC.png"), width:800, height:1131>",
 
 Print_Media_FiveAlarmChili_title= "Five Alarm Firehouse Chili",
 Print_Media_FiveAlarmChili_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FiveAlarm.png"), width:800, height:1131>",
 
 Print_Media_GoldenSunset_title= "Golden Sunset Nursing Home",
 Print_Media_GoldenSunset_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/GoldenSunset.png"), width:800, height:1131>",
 
 Print_Media_GunsUnlimitedEchoCreek_title= "Guns Unlimited (Echo Creek)",
 Print_Media_GunsUnlimitedEchoCreek_info= "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/GunsUnlimited.png"), width:800, height:1131>",
 
-Print_Media_HobbsandPerkinsHardware_title= "Hobbs and Perkins Hardware (Irvington)",
+Print_Media_HobbsandPerkinsHardware_title= "Hobbs & Perkins Hardware (Irvington)",
 Print_Media_HobbsandPerkinsHardware_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/HobbsPerkins.png"), width:800, height:1131>",
 
 Print_Media_HouseforSale787_title= "House for Sale (no. 787)",
 Print_Media_HouseforSale787_info= "<type:parent, width:800, height:1131>"..
@@ -1441,7 +1441,7 @@ Print_Media_IrvingtonGunClub_info= "<type:parent, width:800, height:1131>"..
 
 Print_Media_LoveDuet_title= "Love Duet Bride and Groom Boutique",
 Print_Media_LoveDuet_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LoveDuet.png"), width:800, height:1131>",
 
 Print_Media_MadDansDen_title= "Mad Dan's Den",
 Print_Media_MadDansDen_info= "<type:parent, width:800, height:1131>"..
@@ -1469,7 +1469,7 @@ Print_Media_Sammies_info= "<type:parent, width:800, height:1131>"..
 
 Print_Media_Sanatorium_title= "Sunderland Hills Sanatorium",
 Print_Media_Sanatorium_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SHS.png"), width:800, height:1131>",
 
 Print_Media_SleepEazzzeInn_title= "Sleep EaZZZe Inn (Louisville Airport)",
 Print_Media_SleepEazzzeInn_info= "<type:parent, width:800, height:1131>"..
@@ -1480,8 +1480,8 @@ Print_Media_StuartandLogScrapyard_info= "<type:parent, width:800, height:1131>".
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/StuartandLog.png"), width:800, height:1131>",
 
 Print_Media_TheWizardsKeep_title= "The Wizard's Keep",
-Print_Media_TheWizardsKeep_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+Print_Media_TheWizardsKeep_info= "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WizardsKeep.png"), width:1616, height:1131>",
 
 Print_Media_Twiggys_title= "Twiggy's",
 Print_Media_Twiggys_info= "<type:parent, width:800, height:1131>"..

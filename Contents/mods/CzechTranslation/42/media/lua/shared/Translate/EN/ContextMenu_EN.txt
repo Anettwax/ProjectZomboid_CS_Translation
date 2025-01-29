@@ -468,6 +468,7 @@ ContextMenu_EN = {
 	ContextMenu_MetalBarBarricade = "Barricade (Metal Bars)",
 	ContextMenu_Clear_Ashes = "Clear Ashes",
 	ContextMenu_Unfavorite = "Unfavorite",
+	ContextMenu_TeleportToOrigin = "Teleport To Origin",
 	ContextMenu_MissingTools = "Missing Tools:",
 	ContextMenu_FullPercent = "% full",
 	ContextMenu_EmptySandbagRequired = "Empty Sack or partly-empty Compost Bag required.",

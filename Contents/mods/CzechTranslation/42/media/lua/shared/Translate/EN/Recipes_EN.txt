@@ -1,4 +1,4 @@
-RecipesEN {
+RecipesEN = {
     AddCraftedTriggerToBomb = "Add Remote Trigger to Bomb",
     AddMotionSensorV1ToBomb = "Add Short-Range Motion Sensor to Bomb",
     AddMotionSensorV2ToBomb = "Add Medium-Range Motion Sensor to Bomb",
@@ -732,6 +732,7 @@ RecipesEN {
 	Assemble_Scythe = "Assemble Scythe",
 	Assemble_Shin_Armor = "Assemble Shin Armor",
 	Assemble_Shortsword = "Assemble Shortsword",
+	Assemble_Shoulder_Armor = "Assemble Shoulder Armor",
 	Assemble_Shoulder_Armor_Left = "Assemble Shoulder Armor - Left",
 	Assemble_Shoulder_Armor_Right = "Assemble Shoulder Armor - Right",
 	Assemble_Sledgehammer = "Assemble Sledgehammer",
@@ -1727,4 +1728,15 @@ RecipesEN {
 	FixSaw = "Fix Saw",
 	GetLongStick = "Get Long Stick",
 	CarveLongStick = "Carve Long Stick",
+	Construct_Advanced_Forge = "Construct Advanced Forge",
+	Construct_Blast_Furnace = "Construct Blast Furnace",
+	Construct_Charcoal_Burner = "Construct Charcoal Burner",
+	Construct_Charcoal_Pit = "Construct Charcoal Pit",
+	Construct_Forge = "Construct Forge",
+	Construct_Makeshift_Electric_Blower_Forge = "Construct Makeshift Electric Blower Forge",
+	Construct_Primitive_Forge = "Construct Primitive Forge",
+	Construct_Primitive_Furnace = "Construct Primitive Furnace",
+	Construct_Smelting_Furnace = "Construct Smelting Furnace",
+	ForgeSpearHead = "Forge Spear Head",
+	ForgeLongSpearHead = "Forge Long Spear Head",
 }
