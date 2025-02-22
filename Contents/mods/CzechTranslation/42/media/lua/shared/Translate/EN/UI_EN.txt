@@ -118,6 +118,7 @@ UI_EN = {
     UI_optionscreen_ActionProgressBarSize3 = "300%",
     UI_optionscreen_ActionProgressBarSize4 = "400%",
     UI_optionscreen_MoodleSize = "Moodle Size",
+    UI_optionscreen_showCraftingXP = "Show Crafting XP",
     UI_optionscreen_MoodleSize_tt = "Changes the display size of the Moodles",
     UI_optionscreen_MoodleSize0 = "32",
     UI_optionscreen_MoodleSize1 = "48",
@@ -211,6 +212,8 @@ UI_EN = {
     UI_optionscreen_ControllerButtonStyle2 = "PlayStation"
     UI_optionscreen_ShowSurvivalGuide = "Show the Survival Guide on startup",
     UI_optionscreen_EnableLeftJoystickRadialMenu = "Enable left joystick radial menu",
+    UI_optionscreen_MacOSIgnoreMouseWheelAcceleration = "MacOS: Ignore Mouse-Wheel Acceleration",
+    UI_optionscreen_MacOSMapHorizontalMouseWheelToVertical = "MacOS: Treat Horizontal Mouse Wheel As Vertical",
     UI_ConfirmMonitorSettings_Prompt = "Keep these screen settings?",
     UI_ConfirmMonitorSettings_RevertIn = "Reverting in %1 seconds.",
     -- Map selecter (lua)

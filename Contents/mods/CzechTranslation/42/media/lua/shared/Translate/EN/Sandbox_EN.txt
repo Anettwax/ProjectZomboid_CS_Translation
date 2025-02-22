@@ -89,6 +89,7 @@ Sandbox_EN = {
     Sandbox_Shutoff_option6 = "0-5 Years",
     Sandbox_Shutoff_option7 = "2-6 Months",
     Sandbox_Shutoff_option8 = "6-12 Months",
+    Sandbox_Shutoff_option9 = "Disabled",
     Sandbox_ElecShut = "Electricity Shutoff",
     Sandbox_ElecShut_tooltip = "How long after the default start date (July 9, 1993) that the world's electricity turns off for good.",
     Sandbox_AlarmDecay = "Alarm Battery Decay",

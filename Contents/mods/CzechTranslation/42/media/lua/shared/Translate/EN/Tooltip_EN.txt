@@ -65,6 +65,8 @@ Tooltip_EN = {
 	Tooltip_item_NeedsUnpacked = "Needs to be unpacked to be placed or used.",
 	Tooltip_item_NeedsUnpackedSleepingBag = "Needs to be unpacked to be placed or used.<br>Unpack and place in a Tent to increase its Sleeping Comfort.",
 	Tooltip_craft_debugModeDesc = "This option only appears in debug mode.",
+	Tooltip_item_CanResearch = "Can Research Craft Recipe",
+	Tooltip_item_CanResearchPlural = "Can Research Craft Recipes",
 	
 	-- Crafting tooltips
 	Tooltip_craft_amphoraDesc = "For storing a large quantity of liquids.",

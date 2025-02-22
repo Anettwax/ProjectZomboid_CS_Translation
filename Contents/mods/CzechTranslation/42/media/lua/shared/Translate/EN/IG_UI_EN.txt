@@ -4284,7 +4284,8 @@ IGUI_EN = {
     IGUI_NewspaperDate_July15 = "July 15",
     IGUI_NewspaperDate_July16 = "July 16",
 
-    IGUI_PhotoOf = "of",
+    IGUI_PhotoOf = "%1 of %2",
+    IGUI_PostcardFrom = "%1 from %2",
     -- Old Photos
     IGUI_Photo_aPet = "a Pet",
     IGUI_Photo_aFamily = "a Family",
@@ -5027,7 +5028,7 @@ IGUI_EN = {
     IGUI_AnimalTracks_Direction = "Direction",
 
     -- lockets
-    IGUI_LocketText = "with a Photo of",
+    IGUI_LocketText = "%1 with a Photo of %2",
     -- kids doodles
     IGUI_Photo_aStickFigure = "a Stick Figure",
     IGUI_Photo_StickFigures = "Stick Figures",

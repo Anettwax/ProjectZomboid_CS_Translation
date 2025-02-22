@@ -942,7 +942,7 @@ Print_Media_CardinalPlaza_title = "Cardinal Plaza",
 
 Print_Media_CircuitalHealing_title = "Circuital Healing",
 
-Print_Media_GnomeSweetGnome_title = "Gnome Sweet Gnome",
+Print_Media_GnomeSweetGnome_title = "Home Sweet Gnome",
 
 Print_Media_MeadshireEstate_title = "Meadshire Estate",
 
@@ -1066,13 +1066,13 @@ Print_Media_LectromaxManufacturingJobAd_info = "<type:parent, width:800, height:
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Lectromax.png"), width:800, height:1131>",
 
 Print_Media_SpiffosHiringDixie_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SpiffosDixie.png"), width:800, height:1131>",
 
 Print_Media_SpiffosHiringLouisville_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SpiffosLV.png"), width:800, height:1131>",
 
 Print_Media_SpiffosHiringWestPoint_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SpiffosWP.png"), width:800, height:1131>",
 
 Print_Media_PizzaWhirledJobAdRosewood_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/PizzaWhirledRosewood.png"), width:800, height:1131>",
@@ -1129,7 +1129,7 @@ Print_Media_UpscaleMobility_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
 
 Print_Media_RoxysRollerRink_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Roxy.png"), width:800, height:1131>",
 
 Print_Media_ElveeArena_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ElveeArena.png"), width:800, height:1131>",
@@ -1165,7 +1165,7 @@ Print_Media_CircuitalHealing_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CircuitalHealing.png"), width:800, height:1131>",
 
 Print_Media_GnomeSweetGnome_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Gnome.png"), width:800, height:1131>",
 
 Print_Media_MeadshireEstate_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Meadshire.png"), width:800, height:1131>",
@@ -1369,7 +1369,7 @@ Print_Media_Airport_info= "<type:parent, width:1616, height:1131>"..
 
 Print_Media_AMZSteel_title= "AMZ Steel",
 Print_Media_AMZSteel_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/AMZ.png"), width:800, height:1131>",
 
 Print_Media_BeefChunk_title= "Beef Chunk Jerky Co.",
 Print_Media_BeefChunk_info= "<type:parent, width:800, height:1131>"..
@@ -1480,8 +1480,8 @@ Print_Media_StuartandLogScrapyard_info= "<type:parent, width:800, height:1131>".
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/StuartandLog.png"), width:800, height:1131>",
 
 Print_Media_TheWizardsKeep_title= "The Wizard's Keep",
-Print_Media_TheWizardsKeep_info= "<type:parent, width:1616, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WizardsKeep.png"), width:1616, height:1131>",
+Print_Media_TheWizardsKeep_info= "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WizardsKeep.png"), width:800, height:1131>",
 
 Print_Media_Twiggys_title= "Twiggy's",
 Print_Media_Twiggys_info= "<type:parent, width:800, height:1131>"..
