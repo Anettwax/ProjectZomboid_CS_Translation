@@ -31,6 +31,7 @@ Fluids_CS = {
     Fluid_Container_Carton = "Karton",
     Fluid_Container_Collector = "Sběrač dešťové vody",
     Fluid_Container_Copper_Cup = "Měděný pohár",
+    Fluid_Container_Crucible = "Tavicí kelímek",
     Fluid_Container_Cup = "Šálek",
     Fluid_Container_CupFountain = "Kelímek",
     Fluid_Container_CupPlastic = "Plastový kelímek",
