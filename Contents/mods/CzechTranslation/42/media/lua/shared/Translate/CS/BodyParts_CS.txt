@@ -1,0 +1,13 @@
+BodyParts_CS = {
+    BODYPART_HEAD = "Hlava",
+    BODYPART_LEFT_LOWER_ARM = "Levé předloktí",
+    BODYPART_LEFT_LOWER_LEG = "Pravá holeň",
+    BODYPART_LEFT_UPPER_ARM = "Levá paže",
+    BODYPART_LEFT_UPPER_LEG = "Levé stehno",
+    BODYPART_PELVIS = "Pánev",
+    BODYPART_RIGHT_LOWER_ARM = "Pravé předloktí",
+    BODYPART_RIGHT_LOWER_LEG = "Pravá holeň",
+    BODYPART_RIGHT_UPPER_ARM = "Pravá paže",
+    BODYPART_RIGHT_UPPER_LEG = "Pravé stehno",
+    BODYPART_SPINE = "Páteř",
+}
