@@ -1,0 +1,13 @@
+BodyParts_EN = {
+    BODYPART_PELVIS = "Pelvis",
+    BODYPART_SPINE = "Spine",
+    BODYPART_HEAD = "Head",
+    BODYPART_LEFT_UPPER_LEG = "Left Upper Leg",
+    BODYPART_LEFT_LOWER_LEG = "Left Lower Leg",
+    BODYPART_RIGHT_UPPER_LEG = "Right Upper Leg",
+    BODYPART_RIGHT_LOWER_LEG = "Right Lower Leg",
+    BODYPART_LEFT_UPPER_ARM = "Left Upper Arm",
+    BODYPART_LEFT_LOWER_ARM = "Left Lower Arm",
+    BODYPART_RIGHT_UPPER_ARM = "Right Upper Arm",
+    BODYPART_RIGHT_LOWER_ARM = "Right Lower Arm",
+}

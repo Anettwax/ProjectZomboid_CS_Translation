@@ -1024,8 +1024,11 @@ Sandbox_EN = {
     Sandbox_RuralLooted_tooltip = "The chance that any rural building will already be looted when found.\nCheck the "Advanced" box below to use a custom number.",
     Sandbox_MaximumDiminishedLoot = "Maximum Diminished Loot Percentage",
     Sandbox_MaximumDiminishedLoot_tooltip = "The maximum loot that won't spawn when Days Until Maximum Diminished Loot is reached.\nCheck the "Advanced" box below to use an exact percentage.",
-    Sandbox_DaysUntilMaximumDiminishedLoot = "Days Until Maximum Diminished Loot",
-    Sandbox_DaysUntilMaximumDiminishedLoot_tooltip = "Days until Maximum Diminished Loot is reached.",
+    Sandbox_MaximumLootedBuildingRooms = "Maximum Looted Building Rooms",
+    Sandbox_MaximumLootedBuildingRooms_tooltip = "If a building has more than this amount of rooms it will not be looted.",
+
+    Sandbox_DaysUntilMaximumLooted = "Days Until Max Looted Building Chance",
+    Sandbox_DaysUntilMaximumLooted_tooltip = "How long it takes for Maximum Looted Building Chance to be reached.",
 
     Sandbox_MuscleStrainFactor = "Muscle Strain Factor",
     Sandbox_MuscleStrainFactor_tooltip = "Functions as a multiplier when applying muscle strain from swinging weapons or carrying heavy loads.",

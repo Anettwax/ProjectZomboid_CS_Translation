@@ -617,4 +617,5 @@ Tooltip_EN = {
 	Tooltip_item_CeramicCrucibleWithGlass = "CeramicCrucibleWithGlass",
 
 	Tooltip_item_BreakOnSmithing = "Will break if used for Blacksmithing crafts.",
+	Tooltip_weapon_NoMaintenanceXp = "Does not generate Maintenance XP when used as a weapon.",
 }

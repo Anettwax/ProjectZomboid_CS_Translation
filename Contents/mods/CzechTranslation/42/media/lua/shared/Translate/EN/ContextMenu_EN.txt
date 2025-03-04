@@ -66,7 +66,7 @@ ContextMenu_EN = {
 	ContextMenu_AddWaterFromItem = "Add Water from Item",
 	ContextMenu_Add_Bottle = "Add Bottle",
 	ContextMenu_Take_Bottle = "Take Bottle",
-	ContextMenu_Take_pills = "Consume",
+	ContextMenu_Take_pills = "Take Pills",
 	ContextMenu_Read = "Read",
 	ContextMenu_Look_at_pictures = "Look at Pictures",
 	ContextMenu_ReLook_at_pictures = "Re-look at Pictures",
@@ -764,4 +764,5 @@ ContextMenu_EN = {
 	ContextMenu_PutAnimalInHutch = "Put %1 in Hutch",
 	ContextMenu_Research = "Research",
 	ContextMenu_ResearchCraft = "Research Craft",
+	ContextMenu_ExtendedPlacement = "Extended 3D Placement",
 }

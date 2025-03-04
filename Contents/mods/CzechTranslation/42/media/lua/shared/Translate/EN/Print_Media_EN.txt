@@ -558,7 +558,7 @@ Print_Media_NationalDispatch_July13_info = "<type:parent, width:880, height:825>
 "<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Japan", A13)"..
 "<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>By Richard Carlson"..
 "<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Staff Writer"..
-"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>     KNOX EXCLUSION ZONE  BORDER,  Ky.  - A new photograph that emerged Monday of an in- fected, dismembered, but apparently still-living man in a street full of bodies in the town of West Point within the Knox Exclusion Zone has raised more questions about both the government's response to the Knox Event.                        Thousands of resi- dents have been trapped within a cordoned-off zone of hundreds of square miles of Kentucky since July 6, with little commu- nication with the outside world.                                       The leaked picture has added yet more anger to the riots gripping cities nationwide, with curfews having little effect. With the Army and National Guard now deployed in major cities, tear gas and water cannons are being widely used against riot- ers, with soldiers return- ing live fire in several areas, though no casu- alties have  been reported."..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>     KNOX EXCLUSION ZONE  BORDER,  Ky.  - A new photograph that emerged Monday of an in- fected, dismembered, but apparently still-living man in a street full of bodies in the town of West Point within the Knox Exclusion Zone has raised more questions about the government's response to the Knox Event.                        Thousands of resi- dents have been trapped within a cordoned-off zone of hundreds of square miles of Kentucky since July 6, with little commu- nication with the outside world.                                       The leaked picture has added yet more anger to the riots gripping cities nationwide, with curfews having little effect. With the Army and National Guard now deployed in major cities, tear gas and water cannons are being widely used against riot- ers, with soldiers return- ing live fire in several areas, though no casu- alties have  been reported."..
 "<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Authorities have stated that even peaceful daytime protests may have to be canceled, due to the likeli- hood of protestors being agitated to violence.^"..
 "<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>    Stock markets, already in freefall after the WHO's grounding of all flights on Sunday, plunged further as the picture spread to news agencies"..
 "<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>around the world. The Dow Jones was  suspended for"..
@@ -1032,8 +1032,8 @@ Print_Media_GrandOhioMall_info = "<type:parent, width:800, height:1131>"..
 Print_Media_DragRacingTrack_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
 
-Print_Media_ArtGalleryofLouisville_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+Print_Media_ArtGalleryofLouisville_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Gallery.png"), width:1616, height:1131>",
 
 Print_Media_FossoilField_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FossoilField.png"), width:800, height:1131>",
@@ -1153,7 +1153,7 @@ Print_Media_LouisvilleAnimalShelter_info = "<type:parent, width:800, height:1131
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
 
 Print_Media_KnoxPackKitchens_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/KnoxPack.png"), width:800, height:1131>",
 
 Print_Media_SunsetPinesFuneralHome_info = "<type:parent, width:1616, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SunsetPines.png"), width:1616, height:1131>",
@@ -1381,7 +1381,7 @@ Print_Media_BlueandWhiteBar_info= "<type:parent, width:800, height:1131>"..
 
 Print_Media_BrottAuction_title= "Brott Cattle Farm Auction",
 Print_Media_BrottAuction_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Brott.png"), width:800, height:1131>",
 
 Print_Media_CabanCenter_title= "The Caban Center for Wildlife Rehabilitation",
 Print_Media_CabanCenter_info= "<type:parent, width:800, height:1131>"..
@@ -1396,8 +1396,8 @@ Print_Media_Coalfield_info= "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
 
 Print_Media_ColdWarBunker_title= "March Ridge Cold War Bunker",
-Print_Media_ColdWarBunker_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+Print_Media_ColdWarBunker_info= "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Bunker.png"), width:1616, height:1131>",
 
 Print_Media_DarkwallowGuestHouse_title= "Darkwallow Guest House",
 Print_Media_DarkwallowGuestHouse_info= "<type:parent, width:800, height:1131>"..
@@ -1473,7 +1473,7 @@ Print_Media_Sanatorium_info= "<type:parent, width:800, height:1131>"..
 
 Print_Media_SleepEazzzeInn_title= "Sleep EaZZZe Inn (Louisville Airport)",
 Print_Media_SleepEazzzeInn_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SleepEazzze.png"), width:800, height:1131>",
 
 Print_Media_StuartandLogScrapyard_title= "Stuart and Log Scrapyard",
 Print_Media_StuartandLogScrapyard_info= "<type:parent, width:800, height:1131>"..
