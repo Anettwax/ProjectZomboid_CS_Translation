@@ -285,7 +285,6 @@ Recipes_CS = {
     Forge_Sheep_Shears = "Ukout nůžky na ovce",
     Forge_ShortSwordBlade = "Ukout ostří krátkého meče",
     Forge_Shortsword_Blade = "Ukout čepel krátkého meče",
-    Forge_Shovel = "Ukout lopatu",
     Forge_Silver_Mask = "Ukout stříbrnou masku",
     Forge_Sledgehammer_Head = "Ukout hlavu perlíku",
     Forge_Small_Armor_Plate = "Ukout malou plátovou výztuhu",
@@ -1075,5 +1074,5 @@ Recipes_CS = {
     WoodenWindowFrameLvl1 = "Dřevěný okenní rám",
     WoodenWindowFrameLvl2 = "Dřevěný okenní rám",
     WoodenWindowFrameLvl3 = "Dřevěný okenní rám",
-    WoodenWindows = "Dřevěná okna",    
+    WoodenWindows = "Dřevěná okna",
 }
