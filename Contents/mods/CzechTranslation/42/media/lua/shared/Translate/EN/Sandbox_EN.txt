@@ -1079,4 +1079,11 @@ Sandbox_EN = {
 
     Sandbox_MaximumFireFuelHours = "MaximumFireFuelHours",
     Sandbox_MaximumFireFuelHours_tooltip = "The maximum hours of fuel that can be placed in a campfire, wood stove etc.",
+
+    // Worldgen
+    Sandbox_Worldgen = "Worldgen",
+    Sandbox_ClayLakeChance = "Clay chance - Lake",
+    Sandbox_ClayLakeChance_tooltip = "Chance to turn a dirt floor into a clay floor. Applies to lakes.",
+    Sandbox_ClayRiverChance = "Clay chance - River"
+    Sandbox_ClayRiverChance_tooltip = "Chance to turn a dirt floor into a clay floor. Applies to rivers.",
 }

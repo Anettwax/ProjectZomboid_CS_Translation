@@ -144,6 +144,7 @@ Farming_EN = {
     Farming_Tooltip_AverageWater = "Average water: ",
     Farming_Tooltip_FurrowNeedsSeed = "Furrow needs seeds.",
     Farming_Tooltip_ItemUsed = "Item used",
+	Farming_Tooltip_None = "None",
     Farming_Tooltip_NotAFurrow = "Not a furrow.",
     Farming_Tooltip_NotAPlant = "Not a plant.",
     Farming_Tooltip_NotEnoughWaterInInventory = "Not enough water in inventory.",

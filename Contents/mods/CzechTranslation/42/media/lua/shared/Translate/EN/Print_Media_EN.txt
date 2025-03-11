@@ -982,7 +982,8 @@ Print_Media_FashionaBelle_info = "<type:parent, width:1616, height:1131>"..
 Print_Media_TacodelPancho_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TacoDelPancho.png"), width:800, height:1131>",
 
-Print_Media_CrossRoadsMall_info = "",
+Print_Media_CrossRoadsMall_info = "<type:parent, width:1616, height:910>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Crossroads.png"), width:1616, height:910>",
 
 Print_Media_UStoreItRiverside_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/UStoreIt1.png"), width:800, height:1131>",
@@ -1026,8 +1027,8 @@ Print_Media_ChapelmountDownsRacetrack_info = "<type:parent, width:800, height:11
 Print_Media_BensCabin_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WestPointCabin.png"), width:800, height:1131>",
 
-Print_Media_GrandOhioMall_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+Print_Media_GrandOhioMall_info = "<type:parent, width:1616, height:910>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/GrandOhio.png"), width:1616, height:910>",
 
 Print_Media_DragRacingTrack_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
@@ -1147,7 +1148,7 @@ Print_Media_SureFitnessBoxingClub_info = "<type:parent, width:800, height:1131>"
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SureFitness.png"), width:800, height:1131>",
 
 Print_Media_BrooksLibrary_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Library.png"), width:800, height:1131>",
 
 Print_Media_LouisvilleAnimalShelter_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
@@ -1158,8 +1159,8 @@ Print_Media_KnoxPackKitchens_info = "<type:parent, width:800, height:1131>"..
 Print_Media_SunsetPinesFuneralHome_info = "<type:parent, width:1616, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SunsetPines.png"), width:1616, height:1131>",
 
-Print_Media_CardinalPlaza_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+Print_Media_CardinalPlaza_info = "<type:parent, width:1616, height:910>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CardinalPlaza.png"), width:1616, height:910>",
 
 Print_Media_CircuitalHealing_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CircuitalHealing.png"), width:800, height:1131>",
@@ -1171,7 +1172,7 @@ Print_Media_MeadshireEstate_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Meadshire.png"), width:800, height:1131>",
 
 Print_Media_IrvingtonSpeedway_info = "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Speedway.png"), width:800, height:1131>",
 
 Print_Media_CivilWarfort_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
@@ -1396,8 +1397,8 @@ Print_Media_Coalfield_info= "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
 
 Print_Media_ColdWarBunker_title= "March Ridge Cold War Bunker",
-Print_Media_ColdWarBunker_info= "<type:parent, width:1616, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Bunker.png"), width:1616, height:1131>",
+Print_Media_ColdWarBunker_info= "<type:parent, width:1616, height:910>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Bunker.png"), width:1616, height:910>",
 
 Print_Media_DarkwallowGuestHouse_title= "Darkwallow Guest House",
 Print_Media_DarkwallowGuestHouse_info= "<type:parent, width:800, height:1131>"..
@@ -1456,12 +1457,12 @@ Print_Media_OvoFarms_info= "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/OvoFarms.png"), width:800, height:1131>",
 
 Print_Media_Pondview_title= "Pondview Shopping Center",
-Print_Media_Pondview_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+Print_Media_Pondview_info= "<type:parent, width:1616, height:910>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Pondview.png"), width:1616, height:910>",
 
 Print_Media_QuillManor_title= "Brenford's Quill Manor",
 Print_Media_QuillManor_info= "<type:parent, width:800, height:1131>"..
-"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Brenford.png"), width:800, height:1131>",
 
 Print_Media_Sammies_title= "Sammie's (Brandenburg)",
 Print_Media_Sammies_info= "<type:parent, width:800, height:1131>"..
